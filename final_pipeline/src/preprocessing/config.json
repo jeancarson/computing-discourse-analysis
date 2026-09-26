@@ -1,0 +1,9 @@
+{
+  "dehyphenate": true,
+  "lemmatize": true,
+  "normalize_whitespace": true,
+  "lowercase": true,
+  "remove_special_chars": true,
+  "remove_stopwords": true,
+  "min_doc_length": 50
+}

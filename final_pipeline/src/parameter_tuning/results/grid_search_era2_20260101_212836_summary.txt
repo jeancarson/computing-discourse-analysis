@@ -1,0 +1,17 @@
+Parameter Tuning Summary
+============================================================
+
+Experiment: grid_search_era2
+Timestamp: 20260101_212836
+Total configurations tested: 1
+
+Top 5 Configurations:
+------------------------------------------------------------
+
+Rank 1:
+  Composite Score: 0.711
+  Coherence: 0.577
+  Diversity: 0.780
+  N Topics: 10.0
+  Outliers: 12.1%
+  Silhouette: 0.064

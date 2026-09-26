@@ -1,0 +1,2 @@
+coherence,diversity,n_topics,outlier_pct,avg_docs_per_topic,silhouette,min_topic_size,max_topic_size,median_topic_size,hdbscan.min_cluster_size,umap.n_neighbors,umap.n_components,hdbscan.min_samples,composite_score
+0.5767399484301506,0.78,10,0.12121212121212122,17.4,0.06438158,7,56,13,7,10,10,3,0.7107332411615556

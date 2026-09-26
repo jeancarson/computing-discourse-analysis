@@ -1,0 +1,1982 @@
+[
+  {
+    "index": 0,
+    "text_file": "academic_papers_01.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "NASA / JPL Technical Memorandum 33-566 - 'A Brief Description and Comparison of Programming Languages FORTRAN, ALGOL, COBOL, PL/I, and LISP 1.5'",
+      "publication_date": "1972-09-15",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_01.txt"
+    }
+  },
+  {
+    "index": 1,
+    "text_file": "academic_papers_02.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 15, No. 7 (July 1972) - 'Programming Languages: History and Future'",
+      "publication_date": "1972-07",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_02.txt"
+    }
+  },
+  {
+    "index": 2,
+    "text_file": "academic_papers_03.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 14, No. 4 (April 1971) - 'Program Development by Stepwise Refinement'",
+      "publication_date": "1971-04",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_03.txt"
+    }
+  },
+  {
+    "index": 3,
+    "text_file": "academic_papers_04.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 12, No. 10 (October 1969) - 'An Axiomatic Basis for Computer Programming'",
+      "publication_date": "1969-10",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_04.txt"
+    }
+  },
+  {
+    "index": 4,
+    "text_file": "academic_papers_05.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 21, No. 8 (Aug 1978) - 'Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs'",
+      "publication_date": "1978-08",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_05.txt"
+    }
+  },
+  {
+    "index": 5,
+    "text_file": "academic_papers_06.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "IEEE Annals of the History of Computing (accepted manuscript) - 'A compelling image: The tower of Babel and the proliferation of programming languages during the 1960s'",
+      "publication_date": "2024",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_06.txt"
+    }
+  },
+  {
+    "index": 6,
+    "text_file": "academic_papers_07.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "IEEE Transactions on Computers, Vol. C-25, No. 12 (December 1976) - 'Programming Languages—The First 25 Years'",
+      "publication_date": "1976-12",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_07.txt"
+    }
+  },
+  {
+    "index": 7,
+    "text_file": "academic_papers_08.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Software as Labor Process",
+      "publication_date": "unknown",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_08.txt"
+    }
+  },
+  {
+    "index": 8,
+    "text_file": "academic_papers_09.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_09.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU) at ACM Onward! and SPLASH Conferences, Reno/Tahoe, Nevada",
+      "publication_date": "2010-10",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_09.txt"
+    }
+  },
+  {
+    "index": 9,
+    "text_file": "academic_papers_10.txt",
+    "original_filepath": "Era1/Academic Papers/academic_papers_10.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Unknown (archival research article on Algol controversy)",
+      "publication_date": "unknown",
+      "title": "",
+      "filepath": "Era1/Academic Papers/academic_papers_10.txt"
+    }
+  },
+  {
+    "index": 10,
+    "text_file": "cacm_1958_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1958_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1958-08-01",
+      "title": "The Problem of Programming Communication with Changing Machines: A Proposed Solution",
+      "filepath": "Era1/CACM/cacm_1958_08/section_01.txt"
+    }
+  },
+  {
+    "index": 11,
+    "text_file": "cacm_1959_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1959_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1959-08-01",
+      "title": "Proposal for a Feasible Programming System",
+      "filepath": "Era1/CACM/cacm_1959_08/section_01.txt"
+    }
+  },
+  {
+    "index": 12,
+    "text_file": "cacm_1959_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1959_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1959-08-01",
+      "title": "An Educational Program in Computing",
+      "filepath": "Era1/CACM/cacm_1959_08/section_02.txt"
+    }
+  },
+  {
+    "index": 13,
+    "text_file": "cacm_1959_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1959_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1959-08-01",
+      "title": "Letters to the Editor: Conditional Expressions and Recursive Functions in IAL",
+      "filepath": "Era1/CACM/cacm_1959_08/section_03.txt"
+    }
+  },
+  {
+    "index": 14,
+    "text_file": "cacm_1961_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1961_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1961-08-01",
+      "title": "Some Basic Terminology Connected With Mechanical Languages and Their Processors",
+      "filepath": "Era1/CACM/cacm_1961_08/section_01.txt"
+    }
+  },
+  {
+    "index": 15,
+    "text_file": "cacm_1961_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1961_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1961-08-01",
+      "title": "COBOL A Sample Problem",
+      "filepath": "Era1/CACM/cacm_1961_08/section_02.txt"
+    }
+  },
+  {
+    "index": 16,
+    "text_file": "cacm_1962_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1962_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1962-08-01",
+      "title": "A COMPUTER TECHNIQUE FOR HANDLING ANALYSIS OF VARIANCE",
+      "filepath": "Era1/CACM/cacm_1962_08/section_02.txt"
+    }
+  },
+  {
+    "index": 17,
+    "text_file": "cacm_1962_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1962_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1962-08-01",
+      "title": "CHARACTER MANIPULATION IN FORTRAN",
+      "filepath": "Era1/CACM/cacm_1962_08/section_03.txt"
+    }
+  },
+  {
+    "index": 18,
+    "text_file": "cacm_1963_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "On ALGOL 60 as a Publication Language",
+      "filepath": "Era1/CACM/cacm_1963_08/section_01.txt"
+    }
+  },
+  {
+    "index": 19,
+    "text_file": "cacm_1963_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "American Standard Code for Information Interchange",
+      "filepath": "Era1/CACM/cacm_1963_08/section_02.txt"
+    }
+  },
+  {
+    "index": 20,
+    "text_file": "cacm_1963_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "Debugging Systems at the Source Language Level",
+      "filepath": "Era1/CACM/cacm_1963_08/section_03.txt"
+    }
+  },
+  {
+    "index": 21,
+    "text_file": "cacm_1963_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "A syntax controlled generator of formal language processors",
+      "filepath": "Era1/CACM/cacm_1963_08/section_04.txt"
+    }
+  },
+  {
+    "index": 22,
+    "text_file": "cacm_1963_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "Some remarks on the syntax of symbolic programming languages",
+      "filepath": "Era1/CACM/cacm_1963_08/section_05.txt"
+    }
+  },
+  {
+    "index": 23,
+    "text_file": "cacm_1963_08_section_06.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": "Dialects of FORTRAN",
+      "filepath": "Era1/CACM/cacm_1963_08/section_06.txt"
+    }
+  },
+  {
+    "index": 24,
+    "text_file": "cacm_1963_08_section_07.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": " the Questions of a German COBOL Version",
+      "filepath": "Era1/CACM/cacm_1963_08/section_07.txt"
+    }
+  },
+  {
+    "index": 25,
+    "text_file": "cacm_1963_08_section_08.txt",
+    "original_filepath": "Era1/CACM/cacm_1963_08/section_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1963-08-01",
+      "title": " A Note on the Dangling else in ALGOL 50 ",
+      "filepath": "Era1/CACM/cacm_1963_08/section_08.txt"
+    }
+  },
+  {
+    "index": 26,
+    "text_file": "cacm_1964_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "How Should ACM Publish Computer Research?",
+      "filepath": "Era1/CACM/cacm_1964_08/section_01.txt"
+    }
+  },
+  {
+    "index": 27,
+    "text_file": "cacm_1964_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Norbert Wiener",
+      "filepath": "Era1/CACM/cacm_1964_08/section_02.txt"
+    }
+  },
+  {
+    "index": 28,
+    "text_file": "cacm_1964_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Investigation of a New Analytical Method for Numerical Derivative Evaluation",
+      "filepath": "Era1/CACM/cacm_1964_08/section_04.txt"
+    }
+  },
+  {
+    "index": 29,
+    "text_file": "cacm_1964_08_section_06.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "A Method of Syntax-Checking ALGOL 60",
+      "filepath": "Era1/CACM/cacm_1964_08/section_06.txt"
+    }
+  },
+  {
+    "index": 30,
+    "text_file": "cacm_1964_08_section_07.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "A Note on the Formation of Free List",
+      "filepath": "Era1/CACM/cacm_1964_08/section_07.txt"
+    }
+  },
+  {
+    "index": 31,
+    "text_file": "cacm_1964_08_section_08.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Machine Controls for Analysis of Variance",
+      "filepath": "Era1/CACM/cacm_1964_08/section_08.txt"
+    }
+  },
+  {
+    "index": 32,
+    "text_file": "cacm_1964_08_section_09.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_09.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Final Examination Scheduling",
+      "filepath": "Era1/CACM/cacm_1964_08/section_09.txt"
+    }
+  },
+  {
+    "index": 33,
+    "text_file": "cacm_1964_08_section_10.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_10.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Formal Parsing Systems",
+      "filepath": "Era1/CACM/cacm_1964_08/section_10.txt"
+    }
+  },
+  {
+    "index": 34,
+    "text_file": "cacm_1964_08_section_11.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_11.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "Comments on Computers in Banking",
+      "filepath": "Era1/CACM/cacm_1964_08/section_11.txt"
+    }
+  },
+  {
+    "index": 35,
+    "text_file": "cacm_1964_08_section_12.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_12.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "A Proposal on ACM Organization",
+      "filepath": "Era1/CACM/cacm_1964_08/section_12.txt"
+    }
+  },
+  {
+    "index": 36,
+    "text_file": "cacm_1964_08_section_13.txt",
+    "original_filepath": "Era1/CACM/cacm_1964_08/section_13.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1964-08-01",
+      "title": "President's Letter to the ACM Membership",
+      "filepath": "Era1/CACM/cacm_1964_08/section_13.txt"
+    }
+  },
+  {
+    "index": 37,
+    "text_file": "cacm_1965_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "A note on storage of strings",
+      "filepath": "Era1/CACM/cacm_1965_08/section_01.txt"
+    }
+  },
+  {
+    "index": 38,
+    "text_file": "cacm_1965_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "File-handling within FORTRAN",
+      "filepath": "Era1/CACM/cacm_1965_08/section_02.txt"
+    }
+  },
+  {
+    "index": 39,
+    "text_file": "cacm_1965_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Negative and zero subscripts in Fortran II programming for the IBM 1620",
+      "filepath": "Era1/CACM/cacm_1965_08/section_03.txt"
+    }
+  },
+  {
+    "index": 40,
+    "text_file": "cacm_1965_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Simulation of computer logic by Fortran arithmetic",
+      "filepath": "Era1/CACM/cacm_1965_08/section_04.txt"
+    }
+  },
+  {
+    "index": 41,
+    "text_file": "cacm_1965_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Remarks on simulation of Boolean functions",
+      "filepath": "Era1/CACM/cacm_1965_08/section_05.txt"
+    }
+  },
+  {
+    "index": 42,
+    "text_file": "cacm_1965_08_section_07.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "High Speed Compilation of Efficient Object Code",
+      "filepath": "Era1/CACM/cacm_1965_08/section_07.txt"
+    }
+  },
+  {
+    "index": 43,
+    "text_file": "cacm_1965_08_section_08.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Symbolic Derivatives Without List Processing, Subroutines, or Recursion",
+      "filepath": "Era1/CACM/cacm_1965_08/section_08.txt"
+    }
+  },
+  {
+    "index": 44,
+    "text_file": "cacm_1965_08_section_09.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_09.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Some Techniques Used in the ALCOR ILLINOIS 7090",
+      "filepath": "Era1/CACM/cacm_1965_08/section_09.txt"
+    }
+  },
+  {
+    "index": 45,
+    "text_file": "cacm_1965_08_section_10.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_10.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Some Experiments in Algebraic Manipulation by Computer",
+      "filepath": "Era1/CACM/cacm_1965_08/section_10.txt"
+    }
+  },
+  {
+    "index": 46,
+    "text_file": "cacm_1965_08_section_11.txt",
+    "original_filepath": "Era1/CACM/cacm_1965_08/section_11.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1965-08-01",
+      "title": "Dynamic Format Specifications",
+      "filepath": "Era1/CACM/cacm_1965_08/section_11.txt"
+    }
+  },
+  {
+    "index": 47,
+    "text_file": "cacm_1966_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "President's Letter to the ACM Membership",
+      "filepath": "Era1/CACM/cacm_1966_08/section_01.txt"
+    }
+  },
+  {
+    "index": 48,
+    "text_file": "cacm_1966_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "Survey of Formula Manipulation",
+      "filepath": "Era1/CACM/cacm_1966_08/section_02.txt"
+    }
+  },
+  {
+    "index": 49,
+    "text_file": "cacm_1966_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "Computation of Algebraic Properties of Elementary Particle Reactions Using a Digital Computer",
+      "filepath": "Era1/CACM/cacm_1966_08/section_03.txt"
+    }
+  },
+  {
+    "index": 50,
+    "text_file": "cacm_1966_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "PM, a System for Polynomial Manipulation",
+      "filepath": "Era1/CACM/cacm_1966_08/section_04.txt"
+    }
+  },
+  {
+    "index": 51,
+    "text_file": "cacm_1966_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "Computer Experiments in Finite Algebra",
+      "filepath": "Era1/CACM/cacm_1966_08/section_05.txt"
+    }
+  },
+  {
+    "index": 52,
+    "text_file": "cacm_1966_08_section_06.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "CONVERT",
+      "filepath": "Era1/CACM/cacm_1966_08/section_06.txt"
+    }
+  },
+  {
+    "index": 53,
+    "text_file": "cacm_1966_08_section_07.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "An On-Line Program for Non-Numerical Algebra",
+      "filepath": "Era1/CACM/cacm_1966_08/section_07.txt"
+    }
+  },
+  {
+    "index": 54,
+    "text_file": "cacm_1966_08_section_08.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "Operators for Manipulating Language Structures",
+      "filepath": "Era1/CACM/cacm_1966_08/section_08.txt"
+    }
+  },
+  {
+    "index": 55,
+    "text_file": "cacm_1966_08_section_09.txt",
+    "original_filepath": "Era1/CACM/cacm_1966_08/section_09.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1966-08-01",
+      "title": "A Programmer's Description of L 6",
+      "filepath": "Era1/CACM/cacm_1966_08/section_09.txt"
+    }
+  },
+  {
+    "index": 56,
+    "text_file": "cacm_1967_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "Proposed Regional Seminars on Business Data Processing",
+      "filepath": "Era1/CACM/cacm_1967_08/section_01.txt"
+    }
+  },
+  {
+    "index": 57,
+    "text_file": "cacm_1967_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "A Computer Technique for Displaying n-Dimensional Hyperobjects",
+      "filepath": "Era1/CACM/cacm_1967_08/section_02.txt"
+    }
+  },
+  {
+    "index": 58,
+    "text_file": "cacm_1967_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "Contextual Understanding by Computers",
+      "filepath": "Era1/CACM/cacm_1967_08/section_03.txt"
+    }
+  },
+  {
+    "index": 59,
+    "text_file": "cacm_1967_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "The AED Free Storage Package",
+      "filepath": "Era1/CACM/cacm_1967_08/section_04.txt"
+    }
+  },
+  {
+    "index": 60,
+    "text_file": "cacm_1967_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "A Comparison of Batch Processing and Instant Turnaround",
+      "filepath": "Era1/CACM/cacm_1967_08/section_05.txt"
+    }
+  },
+  {
+    "index": 61,
+    "text_file": "cacm_1967_08_section_06.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "Towards Standards for Handwritten Zero and Oh",
+      "filepath": "Era1/CACM/cacm_1967_08/section_06.txt"
+    }
+  },
+  {
+    "index": 62,
+    "text_file": "cacm_1967_08_section_07.txt",
+    "original_filepath": "Era1/CACM/cacm_1967_08/section_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1967-08-01",
+      "title": "ARPA – A Visible Means of Support",
+      "filepath": "Era1/CACM/cacm_1967_08/section_07.txt"
+    }
+  },
+  {
+    "index": 63,
+    "text_file": "cacm_1968_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "When Your Computer Needs a Lawyer",
+      "filepath": "Era1/CACM/cacm_1968_08/section_01.txt"
+    }
+  },
+  {
+    "index": 64,
+    "text_file": "cacm_1968_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "Programming Techniques ASP A Ring Implemented Associative Structure Package",
+      "filepath": "Era1/CACM/cacm_1968_08/section_02.txt"
+    }
+  },
+  {
+    "index": 65,
+    "text_file": "cacm_1968_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "Letters to the Editor: The Go To Statement Reconsidered",
+      "filepath": "Era1/CACM/cacm_1968_08/section_03.txt"
+    }
+  },
+  {
+    "index": 66,
+    "text_file": "cacm_1968_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "Letters to the Editor on Improving the Quality of Our Technical Meetings",
+      "filepath": "Era1/CACM/cacm_1968_08/section_04.txt"
+    }
+  },
+  {
+    "index": 67,
+    "text_file": "cacm_1968_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "Accommodating Standards and Identification of Programming Languages",
+      "filepath": "Era1/CACM/cacm_1968_08/section_05.txt"
+    }
+  },
+  {
+    "index": 68,
+    "text_file": "cacm_1968_08_section_06.txt",
+    "original_filepath": "Era1/CACM/cacm_1968_08/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1968-08-01",
+      "title": "Commentary on Mr. Mooers Paper",
+      "filepath": "Era1/CACM/cacm_1968_08/section_06.txt"
+    }
+  },
+  {
+    "index": 69,
+    "text_file": "cacm_1969_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1969_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1969-08-01",
+      "title": "The MAD Definition Facility",
+      "filepath": "Era1/CACM/cacm_1969_08/section_01.txt"
+    }
+  },
+  {
+    "index": 70,
+    "text_file": "cacm_1969_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1969_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1969-08-01",
+      "title": "An Algol-Based Associative Language",
+      "filepath": "Era1/CACM/cacm_1969_08/section_02.txt"
+    }
+  },
+  {
+    "index": 71,
+    "text_file": "cacm_1969_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1969_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1969-08-01",
+      "title": "The Teachable Language Comprehender: A Simulation Program and Theory of Language",
+      "filepath": "Era1/CACM/cacm_1969_08/section_03.txt"
+    }
+  },
+  {
+    "index": 72,
+    "text_file": "cacm_1969_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1969_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1969-08-01",
+      "title": "A Program for the Syntactic Analysis of English Sentences",
+      "filepath": "Era1/CACM/cacm_1969_08/section_04.txt"
+    }
+  },
+  {
+    "index": 73,
+    "text_file": "cacm_1969_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1969_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1969-08-01",
+      "title": "Computing Capabilities at Argentine and Chilean Universities",
+      "filepath": "Era1/CACM/cacm_1969_08/section_05.txt"
+    }
+  },
+  {
+    "index": 74,
+    "text_file": "cacm_1970_08_section_01.txt",
+    "original_filepath": "Era1/CACM/cacm_1970_08/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1970-08-01",
+      "title": "The Allocation of Computer Resources Is Pricing the Answer?",
+      "filepath": "Era1/CACM/cacm_1970_08/section_01.txt"
+    }
+  },
+  {
+    "index": 75,
+    "text_file": "cacm_1970_08_section_02.txt",
+    "original_filepath": "Era1/CACM/cacm_1970_08/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1970-08-01",
+      "title": "Sorting in a Paging Environment",
+      "filepath": "Era1/CACM/cacm_1970_08/section_02.txt"
+    }
+  },
+  {
+    "index": 76,
+    "text_file": "cacm_1970_08_section_03.txt",
+    "original_filepath": "Era1/CACM/cacm_1970_08/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1970-08-01",
+      "title": "The Instrumentation of Multics",
+      "filepath": "Era1/CACM/cacm_1970_08/section_03.txt"
+    }
+  },
+  {
+    "index": 77,
+    "text_file": "cacm_1970_08_section_04.txt",
+    "original_filepath": "Era1/CACM/cacm_1970_08/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1970-08-01",
+      "title": "A Technique for Generating Almost Optimal Floyd-Evans Productions for Precedence Grammars",
+      "filepath": "Era1/CACM/cacm_1970_08/section_04.txt"
+    }
+  },
+  {
+    "index": 78,
+    "text_file": "cacm_1970_08_section_05.txt",
+    "original_filepath": "Era1/CACM/cacm_1970_08/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "CACM",
+      "publication_date": "1970-08-01",
+      "title": "Algorithms Policy / Revised August 1970",
+      "filepath": "Era1/CACM/cacm_1970_08/section_05.txt"
+    }
+  },
+  {
+    "index": 79,
+    "text_file": "datamation_1957_10_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1957_10/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-10-01",
+      "title": "New Tools Reduce Paperwork",
+      "filepath": "Era1/Datamation/datamation_1957_10/section_02.txt"
+    }
+  },
+  {
+    "index": 80,
+    "text_file": "datamation_1957_10_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1957_10/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-10-01",
+      "title": "Electronic Linguist Speaks Both AD Terms",
+      "filepath": "Era1/Datamation/datamation_1957_10/section_03.txt"
+    }
+  },
+  {
+    "index": 81,
+    "text_file": "datamation_1957_10_section_05.txt",
+    "original_filepath": "Era1/Datamation/datamation_1957_10/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-10-01",
+      "title": "Digital Computer Programming",
+      "filepath": "Era1/Datamation/datamation_1957_10/section_05.txt"
+    }
+  },
+  {
+    "index": 82,
+    "text_file": "datamation_195711-12_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_195711-12/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-11-01",
+      "title": "A Central Computer Installation as a Part of an Air Lines Reservations System",
+      "filepath": "Era1/Datamation/datamation_195711-12/section_01.txt"
+    }
+  },
+  {
+    "index": 83,
+    "text_file": "datamation_195711-12_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_195711-12/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-11-01",
+      "title": "Medium Computer Gains Popularity in U.S. Industry",
+      "filepath": "Era1/Datamation/datamation_195711-12/section_02.txt"
+    }
+  },
+  {
+    "index": 84,
+    "text_file": "datamation_195711-12_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_195711-12/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-11-01",
+      "title": "Guest Editorial: Electronics to Free Human Intelligence from Tedious Routine",
+      "filepath": "Era1/Datamation/datamation_195711-12/section_03.txt"
+    }
+  },
+  {
+    "index": 85,
+    "text_file": "datamation_195711-12_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_195711-12/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-11-01",
+      "title": "New System to Simplify Computer Operation",
+      "filepath": "Era1/Datamation/datamation_195711-12/section_04.txt"
+    }
+  },
+  {
+    "index": 86,
+    "text_file": "datamation_195711-12_section_05.txt",
+    "original_filepath": "Era1/Datamation/datamation_195711-12/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1957-11-01",
+      "title": "Datatron 220 Marks a Decisive Breakthrough in Computer Economics",
+      "filepath": "Era1/Datamation/datamation_195711-12/section_05.txt"
+    }
+  },
+  {
+    "index": 87,
+    "text_file": "datamation_1958_01-02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1958_01-02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1958-01-01",
+      "title": "Clary Introduces New ECS Low-Priced Computer",
+      "filepath": "Era1/Datamation/datamation_1958_01-02/section_01.txt"
+    }
+  },
+  {
+    "index": 88,
+    "text_file": "datamation_1958_01-02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1958_01-02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1958-01-01",
+      "title": "An Executive Voice in Datamation",
+      "filepath": "Era1/Datamation/datamation_1958_01-02/section_02.txt"
+    }
+  },
+  {
+    "index": 89,
+    "text_file": "datamation_1958_01-02_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1958_01-02/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1958-01-01",
+      "title": "Datamation on Campus",
+      "filepath": "Era1/Datamation/datamation_1958_01-02/section_03.txt"
+    }
+  },
+  {
+    "index": 90,
+    "text_file": "datamation_195905-06_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_195905-06/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1959-05-01",
+      "title": "Computer Programming at SDC",
+      "filepath": "Era1/Datamation/datamation_195905-06/section_01.txt"
+    }
+  },
+  {
+    "index": 91,
+    "text_file": "datamation_195905-06_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_195905-06/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1959-05-01",
+      "title": "Letters to the Editor",
+      "filepath": "Era1/Datamation/datamation_195905-06/section_02.txt"
+    }
+  },
+  {
+    "index": 92,
+    "text_file": "datamation_195905-06_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_195905-06/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1959-05-01",
+      "title": "IBM Programming Opportunities",
+      "filepath": "Era1/Datamation/datamation_195905-06/section_03.txt"
+    }
+  },
+  {
+    "index": 93,
+    "text_file": "datamation_1961_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1961_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1961-02-01",
+      "title": "Computer Programmers",
+      "filepath": "Era1/Datamation/datamation_1961_02/section_01.txt"
+    }
+  },
+  {
+    "index": 94,
+    "text_file": "datamation_1961_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1961_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1961-02-01",
+      "title": "DATAMATION Editorial: Bugs in the Journal",
+      "filepath": "Era1/Datamation/datamation_1961_02/section_02.txt"
+    }
+  },
+  {
+    "index": 95,
+    "text_file": "datamation_1961_02_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1961_02/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1961-02-01",
+      "title": "COBOL Compatibility Demonstration",
+      "filepath": "Era1/Datamation/datamation_1961_02/section_03.txt"
+    }
+  },
+  {
+    "index": 96,
+    "text_file": "datamation_1961_02_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1961_02/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1961-02-01",
+      "title": "EJCC Program Highlights",
+      "filepath": "Era1/Datamation/datamation_1961_02/section_04.txt"
+    }
+  },
+  {
+    "index": 97,
+    "text_file": "datamation_1961_02_section_05.txt",
+    "original_filepath": "Era1/Datamation/datamation_1961_02/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1961-02-01",
+      "title": "Programming Instructor and Employment Opportunities",
+      "filepath": "Era1/Datamation/datamation_1961_02/section_05.txt"
+    }
+  },
+  {
+    "index": 98,
+    "text_file": "datamation_196202_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "Editors Readout: The Corporate Images",
+      "filepath": "Era1/Datamation/datamation_196202/section_01.txt"
+    }
+  },
+  {
+    "index": 99,
+    "text_file": "datamation_196202_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "ASAs X3, a Perspective on DP Standards",
+      "filepath": "Era1/Datamation/datamation_196202/section_02.txt"
+    }
+  },
+  {
+    "index": 100,
+    "text_file": "datamation_196202_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "Contracting for Computer Services",
+      "filepath": "Era1/Datamation/datamation_196202/section_03.txt"
+    }
+  },
+  {
+    "index": 101,
+    "text_file": "datamation_196202_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "Careers in Computers",
+      "filepath": "Era1/Datamation/datamation_196202/section_04.txt"
+    }
+  },
+  {
+    "index": 102,
+    "text_file": "datamation_196202_section_05.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "Machine-Independent Computer Programming",
+      "filepath": "Era1/Datamation/datamation_196202/section_05.txt"
+    }
+  },
+  {
+    "index": 103,
+    "text_file": "datamation_196202_section_06.txt",
+    "original_filepath": "Era1/Datamation/datamation_196202/section_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1962-02-01",
+      "title": "East vs. West: Diagrams vs. Equations",
+      "filepath": "Era1/Datamation/datamation_196202/section_06.txt"
+    }
+  },
+  {
+    "index": 104,
+    "text_file": "datamation_1963_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1963_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1963-02-01",
+      "title": "MAGIC LANGUAGES debugged by H. R. J. GROSCH",
+      "filepath": "Era1/Datamation/datamation_1963_02/section_01.txt"
+    }
+  },
+  {
+    "index": 105,
+    "text_file": "datamation_1963_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1963_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1963-02-01",
+      "title": "EDITORS READOUT: BUSINESS DATA PROCESSING HURRAHS HURDLES",
+      "filepath": "Era1/Datamation/datamation_1963_02/section_02.txt"
+    }
+  },
+  {
+    "index": 106,
+    "text_file": "datamation_1963_02_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1963_02/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1963-02-01",
+      "title": "IN AND OUT RETURNS TO MEET FRANKENSTEIN",
+      "filepath": "Era1/Datamation/datamation_1963_02/section_03.txt"
+    }
+  },
+  {
+    "index": 107,
+    "text_file": "datamation_1963_02_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1963_02/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1963-02-01",
+      "title": "PROGRAMMING GAP IN REAL-TIME SYSTEMS",
+      "filepath": "Era1/Datamation/datamation_1963_02/section_04.txt"
+    }
+  },
+  {
+    "index": 108,
+    "text_file": "datamation_1963_02_section_05.txt",
+    "original_filepath": "Era1/Datamation/datamation_1963_02/section_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1963-02-01",
+      "title": "A MULTI-LANGUAGE SYSTEM FOR COMMAND CONTROL",
+      "filepath": "Era1/Datamation/datamation_1963_02/section_05.txt"
+    }
+  },
+  {
+    "index": 109,
+    "text_file": "datamation_1964_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1964_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1964-02-01",
+      "title": "Microprogramming and Stored Logic",
+      "filepath": "Era1/Datamation/datamation_1964_02/section_01.txt"
+    }
+  },
+  {
+    "index": 110,
+    "text_file": "datamation_1964_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1964_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1964-02-01",
+      "title": "Stored Logic Programing and Applications",
+      "filepath": "Era1/Datamation/datamation_1964_02/section_02.txt"
+    }
+  },
+  {
+    "index": 111,
+    "text_file": "datamation_1964_02_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1964_02/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1964-02-01",
+      "title": "Data Processing Management Association",
+      "filepath": "Era1/Datamation/datamation_1964_02/section_04.txt"
+    }
+  },
+  {
+    "index": 112,
+    "text_file": "datamation_1965_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1965_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1965-02-01",
+      "title": "Computer Science at West Point",
+      "filepath": "Era1/Datamation/datamation_1965_02/section_01.txt"
+    }
+  },
+  {
+    "index": 113,
+    "text_file": "datamation_1965_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1965_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1965-02-01",
+      "title": "The Evolution of FORTRAN",
+      "filepath": "Era1/Datamation/datamation_1965_02/section_02.txt"
+    }
+  },
+  {
+    "index": 114,
+    "text_file": "datamation_1965_02_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1965_02/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1965-02-01",
+      "title": "The QUIKTRAN System",
+      "filepath": "Era1/Datamation/datamation_1965_02/section_03.txt"
+    }
+  },
+  {
+    "index": 115,
+    "text_file": "datamation_1965_02_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1965_02/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1965-02-01",
+      "title": "Programming Imperialism and Hardware Imperialism",
+      "filepath": "Era1/Datamation/datamation_1965_02/section_04.txt"
+    }
+  },
+  {
+    "index": 116,
+    "text_file": "datamation_1966_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1966_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1966-02-01",
+      "title": "HONEYWELL REPORT ON COBOL",
+      "filepath": "Era1/Datamation/datamation_1966_02/section_01.txt"
+    }
+  },
+  {
+    "index": 117,
+    "text_file": "datamation_1966_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1966_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1966-02-01",
+      "title": "PROCESS CONTROL SOFTWARE",
+      "filepath": "Era1/Datamation/datamation_1966_02/section_02.txt"
+    }
+  },
+  {
+    "index": 118,
+    "text_file": "datamation_1966_02_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1966_02/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1966-02-01",
+      "title": "THE 940 TIME SHARING COMPUTER SYSTEM",
+      "filepath": "Era1/Datamation/datamation_1966_02/section_03.txt"
+    }
+  },
+  {
+    "index": 119,
+    "text_file": "datamation_1966_02_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1966_02/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1966-02-01",
+      "title": "THE CLICHE EXPERT DISCUSSES COMPUTERS",
+      "filepath": "Era1/Datamation/datamation_1966_02/section_04.txt"
+    }
+  },
+  {
+    "index": 120,
+    "text_file": "datamation_1967_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1967_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1967-02-01",
+      "title": "DESIGNING A MACHINE PARTNER",
+      "filepath": "Era1/Datamation/datamation_1967_02/section_01.txt"
+    }
+  },
+  {
+    "index": 121,
+    "text_file": "datamation_1967_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1967_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1967-02-01",
+      "title": "COMPUTERS IN THE HIGH SCHOOL",
+      "filepath": "Era1/Datamation/datamation_1967_02/section_02.txt"
+    }
+  },
+  {
+    "index": 122,
+    "text_file": "datamation_1968_02_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1968_02/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1968-02-01",
+      "title": "Do-it-yourself compiler kit ($14,000 apiece)",
+      "filepath": "Era1/Datamation/datamation_1968_02/section_01.txt"
+    }
+  },
+  {
+    "index": 123,
+    "text_file": "datamation_1968_02_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1968_02/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1968-02-01",
+      "title": "Pittsburgh Gets First Time-Sharing Service",
+      "filepath": "Era1/Datamation/datamation_1968_02/section_02.txt"
+    }
+  },
+  {
+    "index": 124,
+    "text_file": "datamation_1969_february_section_01.txt",
+    "original_filepath": "Era1/Datamation/datamation_1969_february/section_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1969-02-01",
+      "title": "Letters to the Editor: 'More on PL/I'",
+      "filepath": "Era1/Datamation/datamation_1969_february/section_01.txt"
+    }
+  },
+  {
+    "index": 125,
+    "text_file": "datamation_1969_february_section_02.txt",
+    "original_filepath": "Era1/Datamation/datamation_1969_february/section_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1969-02-01",
+      "title": "Editor's Readout: 'The Vital, Yawn, Stimulating Topic of—Um, Ah—Standards'",
+      "filepath": "Era1/Datamation/datamation_1969_february/section_02.txt"
+    }
+  },
+  {
+    "index": 126,
+    "text_file": "datamation_1969_february_section_03.txt",
+    "original_filepath": "Era1/Datamation/datamation_1969_february/section_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1969-02-01",
+      "title": "Toward a Standard Standard",
+      "filepath": "Era1/Datamation/datamation_1969_february/section_03.txt"
+    }
+  },
+  {
+    "index": 127,
+    "text_file": "datamation_1969_february_section_04.txt",
+    "original_filepath": "Era1/Datamation/datamation_1969_february/section_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Datamation",
+      "publication_date": "1969-02-01",
+      "title": "The Federal Government and Computer Compatibility",
+      "filepath": "Era1/Datamation/datamation_1969_february/section_04.txt"
+    }
+  },
+  {
+    "index": 128,
+    "text_file": "hiring_trends_01.txt",
+    "original_filepath": "Era1/HiringTrends/hiring_trends_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM",
+      "publication_date": "2011-04",
+      "title": "Building Castles in the Air: Reflections on Recruiting and Training Programmers",
+      "filepath": "Era1/HiringTrends/hiring_trends_01.txt"
+    }
+  },
+  {
+    "index": 129,
+    "text_file": "hiring_trends_02.txt",
+    "original_filepath": "Era1/HiringTrends/hiring_trends_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Unpublished/Working Paper (Ensmenger & Aspray)",
+      "publication_date": "2002",
+      "title": "Software as Labor Process",
+      "filepath": "Era1/HiringTrends/hiring_trends_02.txt"
+    }
+  },
+  {
+    "index": 130,
+    "text_file": "historical_reflections_01.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "A History of Computing in the Twentieth Century - 'Programming in America in the 1950s: Some Personal Impressions'",
+      "publication_date": "none",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_01.txt"
+    }
+  },
+  {
+    "index": 131,
+    "text_file": "historical_reflections_02.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM (July 1972) - 'Programming Systems and Languages 1965-1975'",
+      "publication_date": "1972-07",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_02.txt"
+    }
+  },
+  {
+    "index": 132,
+    "text_file": "historical_reflections_03.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Technology and Culture, Vol. 55, No. 1 (Jan 2014): 'When Technology Became Language: The Origins of the Linguistic Conception of Computer Programming, 1950–1960'",
+      "publication_date": "2014-01",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_03.txt"
+    }
+  },
+  {
+    "index": 133,
+    "text_file": "historical_reflections_04.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Human Choice and Computers (IFIP) / IFIP Proceedings, 2002 - 'Some Great Myths of the History of Computing'",
+      "publication_date": "2002",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_04.txt"
+    }
+  },
+  {
+    "index": 134,
+    "text_file": "historical_reflections_05.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 54, No. 4 (Apr 2011) - 'Building Castles in the Air: Reflections on recruiting and training programmers'",
+      "publication_date": "2011-04",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_05.txt"
+    }
+  },
+  {
+    "index": 135,
+    "text_file": "historical_reflections_06.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 31, No. 1 (Jan 1988) - 'The Early Years of Logic Programming'",
+      "publication_date": "1988-01",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_06.txt"
+    }
+  },
+  {
+    "index": 136,
+    "text_file": "historical_reflections_07.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Annals / Communications of the ACM - 'The History of Fortran I, II, and III' (John Backus)",
+      "publication_date": "none",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_07.txt"
+    }
+  },
+  {
+    "index": 137,
+    "text_file": "historical_reflections_08.txt",
+    "original_filepath": "Era1/HistoricalReflections/historical_reflections_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM, Vol. 31, No. 1 (Jan 1988) - 'The Early Years of Logic Programming' (duplicate copy)",
+      "publication_date": "1988-01",
+      "title": "",
+      "filepath": "Era1/HistoricalReflections/historical_reflections_08.txt"
+    }
+  },
+  {
+    "index": 138,
+    "text_file": "interview_01.txt",
+    "original_filepath": "Era1/Interviews/interview_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Computer History Museum",
+      "publication_date": "2006-09-05",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_01.txt"
+    }
+  },
+  {
+    "index": 139,
+    "text_file": "interview_02.txt",
+    "original_filepath": "Era1/Interviews/interview_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, University of Minnesota",
+      "publication_date": "2001-08-02",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_02.txt"
+    }
+  },
+  {
+    "index": 140,
+    "text_file": "interview_03.txt",
+    "original_filepath": "Era1/Interviews/interview_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Computer History Museum, licensed to the ACM",
+      "publication_date": "2024-03-15",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_03.txt"
+    }
+  },
+  {
+    "index": 141,
+    "text_file": "interview_04.txt",
+    "original_filepath": "Era1/Interviews/interview_04.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "ACM Turing Award Oral History Project",
+      "publication_date": "2018-03-13",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_04.txt"
+    }
+  },
+  {
+    "index": 142,
+    "text_file": "interview_05.txt",
+    "original_filepath": "Era1/Interviews/interview_05.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "ACM Turing Award Winners Project",
+      "publication_date": "2015-11-24",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_05.txt"
+    }
+  },
+  {
+    "index": 143,
+    "text_file": "interview_06.txt",
+    "original_filepath": "Era1/Interviews/interview_06.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "The Machine That Changed The World documentary series transcription (Riccardo Mori)",
+      "publication_date": "2020-03-17",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_06.txt"
+    }
+  },
+  {
+    "index": 144,
+    "text_file": "interview_07.txt",
+    "original_filepath": "Era1/Interviews/interview_07.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Communications of the ACM",
+      "publication_date": "2011-01-01",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_07.txt"
+    }
+  },
+  {
+    "index": 145,
+    "text_file": "interview_08.txt",
+    "original_filepath": "Era1/Interviews/interview_08.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1989-10-05",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_08.txt"
+    }
+  },
+  {
+    "index": 146,
+    "text_file": "interview_09.txt",
+    "original_filepath": "Era1/Interviews/interview_09.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute Oral History Archive",
+      "publication_date": "1991-06-11",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_09.txt"
+    }
+  },
+  {
+    "index": 147,
+    "text_file": "interview_10.txt",
+    "original_filepath": "Era1/Interviews/interview_10.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1990-04-24",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_10.txt"
+    }
+  },
+  {
+    "index": 148,
+    "text_file": "interview_11.txt",
+    "original_filepath": "Era1/Interviews/interview_11.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute Oral History Collection",
+      "publication_date": "1979-06-12",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_11.txt"
+    }
+  },
+  {
+    "index": 149,
+    "text_file": "interview_12.txt",
+    "original_filepath": "Era1/Interviews/interview_12.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, University of Minnesota",
+      "publication_date": "1979-05-16",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_12.txt"
+    }
+  },
+  {
+    "index": 150,
+    "text_file": "interview_13.txt",
+    "original_filepath": "Era1/Interviews/interview_13.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, The Center for the History of Information Processing, University of Minnesota, Minneapolis",
+      "publication_date": "1979-05-16",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_13.txt"
+    }
+  },
+  {
+    "index": 151,
+    "text_file": "interview_14.txt",
+    "original_filepath": "Era1/Interviews/interview_14.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, The Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1989-03-02",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_14.txt"
+    }
+  },
+  {
+    "index": 152,
+    "text_file": "interview_15.txt",
+    "original_filepath": "Era1/Interviews/interview_15.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, University of Minnesota",
+      "publication_date": "1979-05-22",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_15.txt"
+    }
+  },
+  {
+    "index": 153,
+    "text_file": "interview_16.txt",
+    "original_filepath": "Era1/Interviews/interview_16.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1991-06-10",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_16.txt"
+    }
+  },
+  {
+    "index": 154,
+    "text_file": "interview_17.txt",
+    "original_filepath": "Era1/Interviews/interview_17.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1989-03-01",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_17.txt"
+    }
+  },
+  {
+    "index": 155,
+    "text_file": "interview_18.txt",
+    "original_filepath": "Era1/Interviews/interview_18.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, University of Minnesota",
+      "publication_date": "1985-08-09",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_18.txt"
+    }
+  },
+  {
+    "index": 156,
+    "text_file": "interview_19.txt",
+    "original_filepath": "Era1/Interviews/interview_19.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1991-06-12",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_19.txt"
+    }
+  },
+  {
+    "index": 157,
+    "text_file": "interview_20.txt",
+    "original_filepath": "Era1/Interviews/interview_20.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Columbia University Archives",
+      "publication_date": "1985-03-29",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_20.txt"
+    }
+  },
+  {
+    "index": 158,
+    "text_file": "interview_21.txt",
+    "original_filepath": "Era1/Interviews/interview_21.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1991-12-11",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_21.txt"
+    }
+  },
+  {
+    "index": 159,
+    "text_file": "interview_22.txt",
+    "original_filepath": "Era1/Interviews/interview_22.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1995-08-28",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_22.txt"
+    }
+  },
+  {
+    "index": 160,
+    "text_file": "interview_23.txt",
+    "original_filepath": "Era1/Interviews/interview_23.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Computer Security History Project, Charles Babbage Institute, University of Minnesota",
+      "publication_date": "2013-04-11",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_23.txt"
+    }
+  },
+  {
+    "index": 161,
+    "text_file": "interview_24.txt",
+    "original_filepath": "Era1/Interviews/interview_24.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "Charles Babbage Institute, Center for the History of Information Processing, University of Minnesota",
+      "publication_date": "1989-10-31",
+      "title": "",
+      "filepath": "Era1/Interviews/interview_24.txt"
+    }
+  },
+  {
+    "index": 162,
+    "text_file": "technical_documents_01.txt",
+    "original_filepath": "Era1/Technical Documents/technical_documents_01.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "1957 Western Joint Computer Conference Proceedings - 'The FORTRAN Automatic Coding System'",
+      "publication_date": "1957",
+      "title": "",
+      "filepath": "Era1/Technical Documents/technical_documents_01.txt"
+    }
+  },
+  {
+    "index": 163,
+    "text_file": "technical_documents_02.txt",
+    "original_filepath": "Era1/Technical Documents/technical_documents_02.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "NASA / JPL Technical Memorandum 33-566 - 'A Brief Description and Comparison of Programming Languages FORTRAN, ALGOL, COBOL, PL/I, and LISP 1.5 From a Critical Standpoint'",
+      "publication_date": "1972-09-15",
+      "title": "",
+      "filepath": "Era1/Technical Documents/technical_documents_02.txt"
+    }
+  },
+  {
+    "index": 164,
+    "text_file": "technical_documents_03.txt",
+    "original_filepath": "Era1/Technical Documents/technical_documents_03.txt",
+    "metadata": {
+      "era": "Era1",
+      "source": "History of Programming Languages Conference (HOPL) - 'The Early History of COBOL'",
+      "publication_date": "1981",
+      "title": "",
+      "filepath": "Era1/Technical Documents/technical_documents_03.txt"
+    }
+  }
+]

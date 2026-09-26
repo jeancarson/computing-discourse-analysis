@@ -1,0 +1,211 @@
+era1_topic,era1_keywords,era2_topic,era2_keywords,similarity
+9,"language, ieee, programming, tower, publication",0,"model, one, code, tool, say",0.5764599
+9,"language, ieee, programming, tower, publication",4,"code, experiment, developer, copilot, effect",0.5696112
+9,"language, ieee, programming, tower, publication",5,"code, jules, description, method, copilot",0.5557021
+9,"language, ieee, programming, tower, publication",1,"code, test, codex, suggestion, quality",0.54853153
+9,"language, ieee, programming, tower, publication",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.54162604
+9,"language, ieee, programming, tower, publication",3,"chatgpt, participant, code, copilot, developer",0.5410775
+14,"computer, user, programming, language, resource",0,"model, one, code, tool, say",0.5408096
+9,"language, ieee, programming, tower, publication",13,"air, harasimowicz, air force, oligo, force",0.5373293
+14,"computer, user, programming, language, resource",4,"code, experiment, developer, copilot, effect",0.5361264
+9,"language, ieee, programming, tower, publication",9,"copilot, user, participant, chatgpt, software",0.5352378
+9,"language, ieee, programming, tower, publication",7,"student, assistant, education, learning, programming",0.52605474
+9,"language, ieee, programming, tower, publication",10,"copilot, code, genai, http, software",0.5254445
+14,"computer, user, programming, language, resource",5,"code, jules, description, method, copilot",0.5222128
+9,"language, ieee, programming, tower, publication",11,"code, prompt, fig, int, array",0.5169652
+14,"computer, user, programming, language, resource",9,"copilot, user, participant, chatgpt, software",0.51504415
+14,"computer, user, programming, language, resource",7,"student, assistant, education, learning, programming",0.5147009
+9,"language, ieee, programming, tower, publication",8,"vibe, vibe coding, coding, agent, startup",0.5118326
+14,"computer, user, programming, language, resource",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.51180255
+14,"computer, user, programming, language, resource",1,"code, test, codex, suggestion, quality",0.51051366
+14,"computer, user, programming, language, resource",10,"copilot, code, genai, http, software",0.509299
+14,"computer, user, programming, language, resource",3,"chatgpt, participant, code, copilot, developer",0.5032865
+9,"language, ieee, programming, tower, publication",12,"code, test, tool, ethical, developer",0.5012968
+6,"gb, jb, program, yes, dijkstra",0,"model, one, code, tool, say",0.5004003
+12,"uncol, sale, computer, system, agent",0,"model, one, code, tool, say",0.48938602
+6,"gb, jb, program, yes, dijkstra",4,"code, experiment, developer, copilot, effect",0.4891932
+14,"computer, user, programming, language, resource",13,"air, harasimowicz, air force, oligo, force",0.48619226
+14,"computer, user, programming, language, resource",2,"assistant, code, activity, student, response",0.48572087
+6,"gb, jb, program, yes, dijkstra",5,"code, jules, description, method, copilot",0.48522544
+9,"language, ieee, programming, tower, publication",2,"assistant, code, activity, student, response",0.4815523
+14,"computer, user, programming, language, resource",11,"code, prompt, fig, int, array",0.4794176
+6,"gb, jb, program, yes, dijkstra",9,"copilot, user, participant, chatgpt, software",0.47763047
+2,"cobol, committee, language, computer, problem",4,"code, experiment, developer, copilot, effect",0.47704896
+5,"cj, th, one, year, computer",0,"model, one, code, tool, say",0.47554186
+14,"computer, user, programming, language, resource",8,"vibe, vibe coding, coding, agent, startup",0.4740072
+2,"cobol, committee, language, computer, problem",0,"model, one, code, tool, say",0.4734338
+7,"unit, format, algol, program, list",0,"model, one, code, tool, say",0.46864036
+6,"gb, jb, program, yes, dijkstra",10,"copilot, code, genai, http, software",0.46726108
+2,"cobol, committee, language, computer, problem",5,"code, jules, description, method, copilot",0.46457386
+14,"computer, user, programming, language, resource",12,"code, test, tool, ethical, developer",0.46417135
+0,"thing, would, people, think, one",0,"model, one, code, tool, say",0.4637026
+6,"gb, jb, program, yes, dijkstra",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.46255776
+6,"gb, jb, program, yes, dijkstra",7,"student, assistant, education, learning, programming",0.4624837
+6,"gb, jb, program, yes, dijkstra",1,"code, test, codex, suggestion, quality",0.46106428
+5,"cj, th, one, year, computer",4,"code, experiment, developer, copilot, effect",0.4584111
+7,"unit, format, algol, program, list",5,"code, jules, description, method, copilot",0.45580846
+12,"uncol, sale, computer, system, agent",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.45449275
+2,"cobol, committee, language, computer, problem",9,"copilot, user, participant, chatgpt, software",0.45283684
+12,"uncol, sale, computer, system, agent",5,"code, jules, description, method, copilot",0.45158616
+6,"gb, jb, program, yes, dijkstra",13,"air, harasimowicz, air force, oligo, force",0.45149043
+7,"unit, format, algol, program, list",4,"code, experiment, developer, copilot, effect",0.45065176
+8,"computer, fortran, programming, system, year",0,"model, one, code, tool, say",0.44981807
+6,"gb, jb, program, yes, dijkstra",3,"chatgpt, participant, code, copilot, developer",0.4496451
+5,"cj, th, one, year, computer",5,"code, jules, description, method, copilot",0.44954
+5,"cj, th, one, year, computer",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.44951335
+2,"cobol, committee, language, computer, problem",3,"chatgpt, participant, code, copilot, developer",0.4487392
+2,"cobol, committee, language, computer, problem",10,"copilot, code, genai, http, software",0.44633105
+2,"cobol, committee, language, computer, problem",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.4458625
+5,"cj, th, one, year, computer",10,"copilot, code, genai, http, software",0.44521457
+7,"unit, format, algol, program, list",9,"copilot, user, participant, chatgpt, software",0.44404617
+0,"thing, would, people, think, one",4,"code, experiment, developer, copilot, effect",0.44319612
+2,"cobol, committee, language, computer, problem",1,"code, test, codex, suggestion, quality",0.4427567
+1,"program, function, system, computer, form",0,"model, one, code, tool, say",0.44250968
+6,"gb, jb, program, yes, dijkstra",2,"assistant, code, activity, student, response",0.44204876
+12,"uncol, sale, computer, system, agent",4,"code, experiment, developer, copilot, effect",0.44204104
+13,"loop, code, set, iv, character",4,"code, experiment, developer, copilot, effect",0.4409597
+12,"uncol, sale, computer, system, agent",1,"code, test, codex, suggestion, quality",0.4403169
+5,"cj, th, one, year, computer",7,"student, assistant, education, learning, programming",0.43896514
+5,"cj, th, one, year, computer",9,"copilot, user, participant, chatgpt, software",0.43895572
+2,"cobol, committee, language, computer, problem",7,"student, assistant, education, learning, programming",0.43843016
+6,"gb, jb, program, yes, dijkstra",8,"vibe, vibe coding, coding, agent, startup",0.43760774
+0,"thing, would, people, think, one",5,"code, jules, description, method, copilot",0.43754435
+13,"loop, code, set, iv, character",0,"model, one, code, tool, say",0.43724906
+8,"computer, fortran, programming, system, year",5,"code, jules, description, method, copilot",0.43677038
+13,"loop, code, set, iv, character",5,"code, jules, description, method, copilot",0.4366644
+2,"cobol, committee, language, computer, problem",13,"air, harasimowicz, air force, oligo, force",0.43652162
+12,"uncol, sale, computer, system, agent",10,"copilot, code, genai, http, software",0.43622905
+12,"uncol, sale, computer, system, agent",3,"chatgpt, participant, code, copilot, developer",0.43527982
+7,"unit, format, algol, program, list",10,"copilot, code, genai, http, software",0.4352283
+8,"computer, fortran, programming, system, year",4,"code, experiment, developer, copilot, effect",0.4351905
+7,"unit, format, algol, program, list",7,"student, assistant, education, learning, programming",0.43517762
+0,"thing, would, people, think, one",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.43472528
+12,"uncol, sale, computer, system, agent",9,"copilot, user, participant, chatgpt, software",0.4339298
+5,"cj, th, one, year, computer",1,"code, test, codex, suggestion, quality",0.43354467
+12,"uncol, sale, computer, system, agent",7,"student, assistant, education, learning, programming",0.43345046
+7,"unit, format, algol, program, list",1,"code, test, codex, suggestion, quality",0.43259668
+6,"gb, jb, program, yes, dijkstra",11,"code, prompt, fig, int, array",0.4321228
+0,"thing, would, people, think, one",10,"copilot, code, genai, http, software",0.43050408
+7,"unit, format, algol, program, list",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.42998928
+0,"thing, would, people, think, one",9,"copilot, user, participant, chatgpt, software",0.42870712
+8,"computer, fortran, programming, system, year",10,"copilot, code, genai, http, software",0.4284305
+11,"newell, norberg, people, thing, one",0,"model, one, code, tool, say",0.4281245
+7,"unit, format, algol, program, list",3,"chatgpt, participant, code, copilot, developer",0.4278208
+2,"cobol, committee, language, computer, problem",8,"vibe, vibe coding, coding, agent, startup",0.4266172
+1,"program, function, system, computer, form",5,"code, jules, description, method, copilot",0.42630228
+8,"computer, fortran, programming, system, year",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.4260751
+7,"unit, format, algol, program, list",13,"air, harasimowicz, air force, oligo, force",0.42476678
+0,"thing, would, people, think, one",7,"student, assistant, education, learning, programming",0.42380387
+8,"computer, fortran, programming, system, year",9,"copilot, user, participant, chatgpt, software",0.4235408
+13,"loop, code, set, iv, character",9,"copilot, user, participant, chatgpt, software",0.42281443
+5,"cj, th, one, year, computer",2,"assistant, code, activity, student, response",0.42254215
+5,"cj, th, one, year, computer",3,"chatgpt, participant, code, copilot, developer",0.4225058
+1,"program, function, system, computer, form",4,"code, experiment, developer, copilot, effect",0.42194197
+8,"computer, fortran, programming, system, year",7,"student, assistant, education, learning, programming",0.42106694
+0,"thing, would, people, think, one",1,"code, test, codex, suggestion, quality",0.42051026
+2,"cobol, committee, language, computer, problem",2,"assistant, code, activity, student, response",0.4201215
+2,"cobol, committee, language, computer, problem",11,"code, prompt, fig, int, array",0.4199282
+2,"cobol, committee, language, computer, problem",12,"code, test, tool, ethical, developer",0.4195325
+5,"cj, th, one, year, computer",13,"air, harasimowicz, air force, oligo, force",0.4193837
+12,"uncol, sale, computer, system, agent",8,"vibe, vibe coding, coding, agent, startup",0.41891223
+1,"program, function, system, computer, form",9,"copilot, user, participant, chatgpt, software",0.41882658
+8,"computer, fortran, programming, system, year",1,"code, test, codex, suggestion, quality",0.41837287
+6,"gb, jb, program, yes, dijkstra",12,"code, test, tool, ethical, developer",0.41755292
+10,"cobol, language, noise, statement, data",0,"model, one, code, tool, say",0.4166672
+5,"cj, th, one, year, computer",12,"code, test, tool, ethical, developer",0.4152197
+13,"loop, code, set, iv, character",10,"copilot, code, genai, http, software",0.41406572
+1,"program, function, system, computer, form",10,"copilot, code, genai, http, software",0.41385117
+7,"unit, format, algol, program, list",8,"vibe, vibe coding, coding, agent, startup",0.41338688
+0,"thing, would, people, think, one",3,"chatgpt, participant, code, copilot, developer",0.4118289
+7,"unit, format, algol, program, list",2,"assistant, code, activity, student, response",0.41170627
+3,"program, letter, solution, zero, may",0,"model, one, code, tool, say",0.4115218
+0,"thing, would, people, think, one",12,"code, test, tool, ethical, developer",0.41024673
+12,"uncol, sale, computer, system, agent",12,"code, test, tool, ethical, developer",0.40943417
+12,"uncol, sale, computer, system, agent",11,"code, prompt, fig, int, array",0.40812773
+11,"newell, norberg, people, thing, one",4,"code, experiment, developer, copilot, effect",0.4080326
+1,"program, function, system, computer, form",1,"code, test, codex, suggestion, quality",0.4077111
+10,"cobol, language, noise, statement, data",4,"code, experiment, developer, copilot, effect",0.4074018
+12,"uncol, sale, computer, system, agent",13,"air, harasimowicz, air force, oligo, force",0.4070327
+1,"program, function, system, computer, form",7,"student, assistant, education, learning, programming",0.40684256
+1,"program, function, system, computer, form",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.4066943
+7,"unit, format, algol, program, list",11,"code, prompt, fig, int, array",0.40555057
+13,"loop, code, set, iv, character",13,"air, harasimowicz, air force, oligo, force",0.40471616
+4,"logic, system, language, programming, computer",0,"model, one, code, tool, say",0.40470332
+0,"thing, would, people, think, one",13,"air, harasimowicz, air force, oligo, force",0.40437287
+10,"cobol, language, noise, statement, data",5,"code, jules, description, method, copilot",0.40367997
+13,"loop, code, set, iv, character",1,"code, test, codex, suggestion, quality",0.40364748
+11,"newell, norberg, people, thing, one",5,"code, jules, description, method, copilot",0.40362215
+8,"computer, fortran, programming, system, year",3,"chatgpt, participant, code, copilot, developer",0.40353101
+5,"cj, th, one, year, computer",11,"code, prompt, fig, int, array",0.4028529
+3,"program, letter, solution, zero, may",4,"code, experiment, developer, copilot, effect",0.40235746
+13,"loop, code, set, iv, character",3,"chatgpt, participant, code, copilot, developer",0.40184158
+8,"computer, fortran, programming, system, year",11,"code, prompt, fig, int, array",0.4016975
+11,"newell, norberg, people, thing, one",10,"copilot, code, genai, http, software",0.40167725
+13,"loop, code, set, iv, character",7,"student, assistant, education, learning, programming",0.40144753
+0,"thing, would, people, think, one",2,"assistant, code, activity, student, response",0.40063447
+11,"newell, norberg, people, thing, one",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.40054983
+8,"computer, fortran, programming, system, year",8,"vibe, vibe coding, coding, agent, startup",0.39998037
+4,"logic, system, language, programming, computer",4,"code, experiment, developer, copilot, effect",0.39956143
+8,"computer, fortran, programming, system, year",2,"assistant, code, activity, student, response",0.39896458
+4,"logic, system, language, programming, computer",5,"code, jules, description, method, copilot",0.39818513
+1,"program, function, system, computer, form",3,"chatgpt, participant, code, copilot, developer",0.39795715
+10,"cobol, language, noise, statement, data",10,"copilot, code, genai, http, software",0.3972379
+11,"newell, norberg, people, thing, one",9,"copilot, user, participant, chatgpt, software",0.397176
+13,"loop, code, set, iv, character",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.39636713
+0,"thing, would, people, think, one",8,"vibe, vibe coding, coding, agent, startup",0.3962437
+11,"newell, norberg, people, thing, one",7,"student, assistant, education, learning, programming",0.3956076
+10,"cobol, language, noise, statement, data",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.39553493
+12,"uncol, sale, computer, system, agent",2,"assistant, code, activity, student, response",0.39535683
+5,"cj, th, one, year, computer",8,"vibe, vibe coding, coding, agent, startup",0.39474627
+3,"program, letter, solution, zero, may",5,"code, jules, description, method, copilot",0.3943261
+8,"computer, fortran, programming, system, year",13,"air, harasimowicz, air force, oligo, force",0.39357132
+10,"cobol, language, noise, statement, data",9,"copilot, user, participant, chatgpt, software",0.39107013
+13,"loop, code, set, iv, character",8,"vibe, vibe coding, coding, agent, startup",0.39030945
+4,"logic, system, language, programming, computer",9,"copilot, user, participant, chatgpt, software",0.39022973
+13,"loop, code, set, iv, character",12,"code, test, tool, ethical, developer",0.38803655
+1,"program, function, system, computer, form",13,"air, harasimowicz, air force, oligo, force",0.38772565
+11,"newell, norberg, people, thing, one",1,"code, test, codex, suggestion, quality",0.3874321
+3,"program, letter, solution, zero, may",10,"copilot, code, genai, http, software",0.38728017
+0,"thing, would, people, think, one",11,"code, prompt, fig, int, array",0.38667247
+3,"program, letter, solution, zero, may",9,"copilot, user, participant, chatgpt, software",0.38627777
+11,"newell, norberg, people, thing, one",12,"code, test, tool, ethical, developer",0.386275
+11,"newell, norberg, people, thing, one",3,"chatgpt, participant, code, copilot, developer",0.38615716
+13,"loop, code, set, iv, character",11,"code, prompt, fig, int, array",0.38613397
+7,"unit, format, algol, program, list",12,"code, test, tool, ethical, developer",0.38533288
+1,"program, function, system, computer, form",8,"vibe, vibe coding, coding, agent, startup",0.38300908
+13,"loop, code, set, iv, character",2,"assistant, code, activity, student, response",0.3821382
+3,"program, letter, solution, zero, may",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.38164416
+4,"logic, system, language, programming, computer",10,"copilot, code, genai, http, software",0.38162714
+10,"cobol, language, noise, statement, data",1,"code, test, codex, suggestion, quality",0.38162416
+8,"computer, fortran, programming, system, year",12,"code, test, tool, ethical, developer",0.3811937
+3,"program, letter, solution, zero, may",7,"student, assistant, education, learning, programming",0.38093963
+4,"logic, system, language, programming, computer",7,"student, assistant, education, learning, programming",0.38042074
+10,"cobol, language, noise, statement, data",7,"student, assistant, education, learning, programming",0.37973318
+10,"cobol, language, noise, statement, data",13,"air, harasimowicz, air force, oligo, force",0.3780513
+1,"program, function, system, computer, form",2,"assistant, code, activity, student, response",0.3776539
+3,"program, letter, solution, zero, may",13,"air, harasimowicz, air force, oligo, force",0.37742764
+3,"program, letter, solution, zero, may",1,"code, test, codex, suggestion, quality",0.37631658
+1,"program, function, system, computer, form",11,"code, prompt, fig, int, array",0.37597126
+4,"logic, system, language, programming, computer",1,"code, test, codex, suggestion, quality",0.37449586
+11,"newell, norberg, people, thing, one",2,"assistant, code, activity, student, response",0.3738889
+4,"logic, system, language, programming, computer",13,"air, harasimowicz, air force, oligo, force",0.37368932
+4,"logic, system, language, programming, computer",6,"participant, canvas, design, chatgpt canvas, figure chatgpt",0.37332806
+10,"cobol, language, noise, statement, data",3,"chatgpt, participant, code, copilot, developer",0.3730809
+4,"logic, system, language, programming, computer",3,"chatgpt, participant, code, copilot, developer",0.37292627
+3,"program, letter, solution, zero, may",3,"chatgpt, participant, code, copilot, developer",0.37276307
+1,"program, function, system, computer, form",12,"code, test, tool, ethical, developer",0.37181914
+3,"program, letter, solution, zero, may",2,"assistant, code, activity, student, response",0.36672866
+11,"newell, norberg, people, thing, one",13,"air, harasimowicz, air force, oligo, force",0.36429122
+10,"cobol, language, noise, statement, data",8,"vibe, vibe coding, coding, agent, startup",0.3640593
+11,"newell, norberg, people, thing, one",8,"vibe, vibe coding, coding, agent, startup",0.36082825
+10,"cobol, language, noise, statement, data",2,"assistant, code, activity, student, response",0.35985044
+10,"cobol, language, noise, statement, data",12,"code, test, tool, ethical, developer",0.35881183
+4,"logic, system, language, programming, computer",8,"vibe, vibe coding, coding, agent, startup",0.35819086
+10,"cobol, language, noise, statement, data",11,"code, prompt, fig, int, array",0.35641193
+3,"program, letter, solution, zero, may",8,"vibe, vibe coding, coding, agent, startup",0.3559474
+3,"program, letter, solution, zero, may",11,"code, prompt, fig, int, array",0.35527176
+4,"logic, system, language, programming, computer",12,"code, test, tool, ethical, developer",0.35274556
+11,"newell, norberg, people, thing, one",11,"code, prompt, fig, int, array",0.35088813
+4,"logic, system, language, programming, computer",2,"assistant, code, activity, student, response",0.34753993
+4,"logic, system, language, programming, computer",11,"code, prompt, fig, int, array",0.3470238
+3,"program, letter, solution, zero, may",12,"code, test, tool, ethical, developer",0.34523708

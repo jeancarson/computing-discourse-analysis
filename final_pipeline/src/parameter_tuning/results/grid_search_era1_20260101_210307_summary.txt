@@ -1,0 +1,49 @@
+Parameter Tuning Summary
+============================================================
+
+Experiment: grid_search_era1
+Timestamp: 20260101_210307
+Total configurations tested: 54
+
+Top 5 Configurations:
+------------------------------------------------------------
+
+Rank 1:
+  Composite Score: 0.753
+  Coherence: 0.647
+  Diversity: 0.771
+  N Topics: 7.0
+  Outliers: 0.0%
+  Silhouette: 0.482
+
+Rank 2:
+  Composite Score: 0.753
+  Coherence: 0.647
+  Diversity: 0.771
+  N Topics: 7.0
+  Outliers: 0.0%
+  Silhouette: 0.482
+
+Rank 3:
+  Composite Score: 0.753
+  Coherence: 0.647
+  Diversity: 0.771
+  N Topics: 7.0
+  Outliers: 0.0%
+  Silhouette: 0.482
+
+Rank 4:
+  Composite Score: 0.753
+  Coherence: 0.647
+  Diversity: 0.771
+  N Topics: 7.0
+  Outliers: 0.0%
+  Silhouette: 0.482
+
+Rank 5:
+  Composite Score: 0.753
+  Coherence: 0.647
+  Diversity: 0.771
+  N Topics: 7.0
+  Outliers: 0.0%
+  Silhouette: 0.482

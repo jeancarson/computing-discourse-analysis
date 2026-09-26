@@ -1,0 +1,2174 @@
+[
+  {
+    "index": 0,
+    "text_file": "acmqueue_05.txt",
+    "original_filepath": "Era2/ACMQueue/acmqueue_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "ACMQueue",
+      "publication_date": "2024-04-19",
+      "title": "Unleashing the Power of End-User Programmable AI",
+      "filepath": "Era2/ACMQueue/acmqueue_05.txt"
+    }
+  },
+  {
+    "index": 1,
+    "text_file": "acmqueue_04.txt",
+    "original_filepath": "Era2/ACMQueue/acmqueue_04.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "ACMQueue",
+      "publication_date": "2025-01-23",
+      "title": "The Drunken Plagiarists",
+      "filepath": "Era2/ACMQueue/acmqueue_04.txt"
+    }
+  },
+  {
+    "index": 2,
+    "text_file": "acmqueue_03.txt",
+    "original_filepath": "Era2/ACMQueue/acmqueue_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "ACMQueue",
+      "publication_date": "2025-04-01",
+      "title": "How to Evaluate AI that's Smarter than Us",
+      "filepath": "Era2/ACMQueue/acmqueue_03.txt"
+    }
+  },
+  {
+    "index": 3,
+    "text_file": "acmqueue_06.txt",
+    "original_filepath": "Era2/ACMQueue/acmqueue_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "ACMQueue",
+      "publication_date": "2025-09-02",
+      "title": "Unsolved Problems in MLOps",
+      "filepath": "Era2/ACMQueue/acmqueue_06.txt"
+    }
+  },
+  {
+    "index": 4,
+    "text_file": "acmqueue_02.txt",
+    "original_filepath": "Era2/ACMQueue/acmqueue_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "ACMQueue",
+      "publication_date": "2025-09-10",
+      "title": "Guardians of the Agents",
+      "filepath": "Era2/ACMQueue/acmqueue_02.txt"
+    }
+  },
+  {
+    "index": 5,
+    "text_file": "blogsetc_01.txt",
+    "original_filepath": "Era2/Blogsetc/blogsetc_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Blogsetc",
+      "publication_date": "2024-12-13",
+      "title": "AI-Driven Code Review: Enhancing Developer Productivity and Code Quality – Communications of the ACM",
+      "filepath": "Era2/Blogsetc/blogsetc_01.txt"
+    }
+  },
+  {
+    "index": 6,
+    "text_file": "industryreports_01.txt",
+    "original_filepath": "Era2/IndustryReports/industryreports_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "IndustryReports",
+      "publication_date": "Unknown",
+      "title": "qodo report",
+      "filepath": "Era2/IndustryReports/industryreports_01.txt"
+    }
+  },
+  {
+    "index": 7,
+    "text_file": "infoworld_61.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_61.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2015-02-19",
+      "title": "Watch out, coders — a robot may take your job, too",
+      "filepath": "Era2/InfoWorld/infoworld_61.txt"
+    }
+  },
+  {
+    "index": 8,
+    "text_file": "infoworld_16.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_16.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2015-03-25",
+      "title": "Avoiding another AI winter",
+      "filepath": "Era2/InfoWorld/infoworld_16.txt"
+    }
+  },
+  {
+    "index": 9,
+    "text_file": "infoworld_55.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_55.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2016-02-03",
+      "title": "Turns out machine learning is a champ at fixing buggy code",
+      "filepath": "Era2/InfoWorld/infoworld_55.txt"
+    }
+  },
+  {
+    "index": 10,
+    "text_file": "infoworld_66.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_66.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2016-05-05",
+      "title": "White House worries about bad A.I. coding",
+      "filepath": "Era2/InfoWorld/infoworld_66.txt"
+    }
+  },
+  {
+    "index": 11,
+    "text_file": "infoworld_21.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_21.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2016-05-12",
+      "title": "Dear Silicon Valley: Stop saying stupid stuff",
+      "filepath": "Era2/InfoWorld/infoworld_21.txt"
+    }
+  },
+  {
+    "index": 12,
+    "text_file": "infoworld_24.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_24.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-02-11",
+      "title": "Developing a Turing test for ethical AI",
+      "filepath": "Era2/InfoWorld/infoworld_24.txt"
+    }
+  },
+  {
+    "index": 13,
+    "text_file": "infoworld_27.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_27.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-02-26",
+      "title": "Does AI-driven cloud computing need ethics guidelines?",
+      "filepath": "Era2/InfoWorld/infoworld_27.txt"
+    }
+  },
+  {
+    "index": 14,
+    "text_file": "infoworld_38.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_38.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-04-12",
+      "title": "IT career roadmap: AI engineer",
+      "filepath": "Era2/InfoWorld/infoworld_38.txt"
+    }
+  },
+  {
+    "index": 15,
+    "text_file": "infoworld_30.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_30.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-07-02",
+      "title": "GitHub unveils AI coding assistant for Visual Studio Code",
+      "filepath": "Era2/InfoWorld/infoworld_30.txt"
+    }
+  },
+  {
+    "index": 16,
+    "text_file": "infoworld_11.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_11.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-07-07",
+      "title": "AI gives software development tools a boost",
+      "filepath": "Era2/InfoWorld/infoworld_11.txt"
+    }
+  },
+  {
+    "index": 17,
+    "text_file": "infoworld_23.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_23.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-07-08",
+      "title": "Developers react to GitHub Copilot",
+      "filepath": "Era2/InfoWorld/infoworld_23.txt"
+    }
+  },
+  {
+    "index": 18,
+    "text_file": "infoworld_53.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_53.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-07-12",
+      "title": "The real successes of AI",
+      "filepath": "Era2/InfoWorld/infoworld_53.txt"
+    }
+  },
+  {
+    "index": 19,
+    "text_file": "infoworld_29.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_29.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-07-19",
+      "title": "GitHub Copilot isn’t changing the future",
+      "filepath": "Era2/InfoWorld/infoworld_29.txt"
+    }
+  },
+  {
+    "index": 20,
+    "text_file": "infoworld_28.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_28.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-08-02",
+      "title": "GitHub Copilot is ‘unacceptable and unjust,’ says Free Software Foundation",
+      "filepath": "Era2/InfoWorld/infoworld_28.txt"
+    }
+  },
+  {
+    "index": 21,
+    "text_file": "infoworld_65.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_65.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-10-04",
+      "title": "Where AI has made real progress",
+      "filepath": "Era2/InfoWorld/infoworld_65.txt"
+    }
+  },
+  {
+    "index": 22,
+    "text_file": "infoworld_44.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_44.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2021-11-08",
+      "title": "Review: GitHub Copilot preview gives me hope",
+      "filepath": "Era2/InfoWorld/infoworld_44.txt"
+    }
+  },
+  {
+    "index": 23,
+    "text_file": "infoworld_02.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2022-02-03",
+      "title": "3 predictions for AI adoption in 2022",
+      "filepath": "Era2/InfoWorld/infoworld_02.txt"
+    }
+  },
+  {
+    "index": 24,
+    "text_file": "infoworld_14.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_14.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2022-09-06",
+      "title": "An AI alternative to code search tools",
+      "filepath": "Era2/InfoWorld/infoworld_14.txt"
+    }
+  },
+  {
+    "index": 25,
+    "text_file": "infoworld_25.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_25.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-01-06",
+      "title": "Did AI blow up your cloud bill?",
+      "filepath": "Era2/InfoWorld/infoworld_25.txt"
+    }
+  },
+  {
+    "index": 26,
+    "text_file": "infoworld_18.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_18.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-01-24",
+      "title": "Can AI replace cloud architects?",
+      "filepath": "Era2/InfoWorld/infoworld_18.txt"
+    }
+  },
+  {
+    "index": 27,
+    "text_file": "infoworld_01.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-02-13",
+      "title": "10 reasons to worry about generative AI",
+      "filepath": "Era2/InfoWorld/infoworld_01.txt"
+    }
+  },
+  {
+    "index": 28,
+    "text_file": "infoworld_13.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_13.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-02-20",
+      "title": "AI still requires human expertise",
+      "filepath": "Era2/InfoWorld/infoworld_13.txt"
+    }
+  },
+  {
+    "index": 29,
+    "text_file": "infoworld_19.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_19.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-02-27",
+      "title": "ChatGPT and software development",
+      "filepath": "Era2/InfoWorld/infoworld_19.txt"
+    }
+  },
+  {
+    "index": 30,
+    "text_file": "infoworld_51.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_51.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-03-14",
+      "title": "The philosopher: A conversation with Grady Booch",
+      "filepath": "Era2/InfoWorld/infoworld_51.txt"
+    }
+  },
+  {
+    "index": 31,
+    "text_file": "infoworld_37.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_37.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-04-03",
+      "title": "If you want a career in AI, learn Python",
+      "filepath": "Era2/InfoWorld/infoworld_37.txt"
+    }
+  },
+  {
+    "index": 32,
+    "text_file": "infoworld_34.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_34.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-04-10",
+      "title": "The AI singularity is here",
+      "filepath": "Era2/InfoWorld/infoworld_34.txt"
+    }
+  },
+  {
+    "index": 33,
+    "text_file": "infoworld_03.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-05-02",
+      "title": "7 speed bumps on the road to AI",
+      "filepath": "Era2/InfoWorld/infoworld_03.txt"
+    }
+  },
+  {
+    "index": 34,
+    "text_file": "infoworld_09.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_09.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-05-03",
+      "title": "AI coding assistants: 8 features enterprises should seek",
+      "filepath": "Era2/InfoWorld/infoworld_09.txt"
+    }
+  },
+  {
+    "index": 35,
+    "text_file": "infoworld_22.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_22.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-05-11",
+      "title": "Developer-focused portal Stack Overflow lays off 10% of staff",
+      "filepath": "Era2/InfoWorld/infoworld_22.txt"
+    }
+  },
+  {
+    "index": 36,
+    "text_file": "infoworld_15.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_15.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-05-22",
+      "title": "Are large language models wrong for coding?",
+      "filepath": "Era2/InfoWorld/infoworld_15.txt"
+    }
+  },
+  {
+    "index": 37,
+    "text_file": "infoworld_08.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_08.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2023-08-08",
+      "title": "AI and the future of software development",
+      "filepath": "Era2/InfoWorld/infoworld_08.txt"
+    }
+  },
+  {
+    "index": 38,
+    "text_file": "infoworld_67.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_67.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-08-18",
+      "title": "Why software developers burn out, and how to fix it",
+      "filepath": "Era2/InfoWorld/infoworld_67.txt"
+    }
+  },
+  {
+    "index": 39,
+    "text_file": "infoworld_54.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_54.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-08-21",
+      "title": "The shift from AI code generation to true development partnership",
+      "filepath": "Era2/InfoWorld/infoworld_54.txt"
+    }
+  },
+  {
+    "index": 40,
+    "text_file": "infoworld_47.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_47.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-08-26",
+      "title": "Spotlight report: IT careers in the AI era",
+      "filepath": "Era2/InfoWorld/infoworld_47.txt"
+    }
+  },
+  {
+    "index": 41,
+    "text_file": "infoworld_48.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_48.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-08-29",
+      "title": "The era of cheap AI coding assistants may be over",
+      "filepath": "Era2/InfoWorld/infoworld_48.txt"
+    }
+  },
+  {
+    "index": 42,
+    "text_file": "infoworld_45.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_45.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-02",
+      "title": "Senior developers let AI do more of the coding — survey",
+      "filepath": "Era2/InfoWorld/infoworld_45.txt"
+    }
+  },
+  {
+    "index": 43,
+    "text_file": "infoworld_57.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_57.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-04",
+      "title": "Vibe coding with GitHub Spark",
+      "filepath": "Era2/InfoWorld/infoworld_57.txt"
+    }
+  },
+  {
+    "index": 44,
+    "text_file": "infoworld_63.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_63.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-09",
+      "title": "When AI nukes your database: The dark side of vibe coding",
+      "filepath": "Era2/InfoWorld/infoworld_63.txt"
+    }
+  },
+  {
+    "index": 45,
+    "text_file": "infoworld_10.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_10.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-15",
+      "title": "AI developer certifications tech companies want",
+      "filepath": "Era2/InfoWorld/infoworld_10.txt"
+    }
+  },
+  {
+    "index": 46,
+    "text_file": "infoworld_05.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-19",
+      "title": "Adding up the hidden costs of generative AI",
+      "filepath": "Era2/InfoWorld/infoworld_05.txt"
+    }
+  },
+  {
+    "index": 47,
+    "text_file": "infoworld_52.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_52.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-23",
+      "title": "The productivity paradox of AI-assisted coding",
+      "filepath": "Era2/InfoWorld/infoworld_52.txt"
+    }
+  },
+  {
+    "index": 48,
+    "text_file": "infoworld_56.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_56.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-23",
+      "title": "Vibe coding and the future of software development",
+      "filepath": "Era2/InfoWorld/infoworld_56.txt"
+    }
+  },
+  {
+    "index": 49,
+    "text_file": "infoworld_42.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_42.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-09-29",
+      "title": "Overcoming AI development challenges",
+      "filepath": "Era2/InfoWorld/infoworld_42.txt"
+    }
+  },
+  {
+    "index": 50,
+    "text_file": "infoworld_68.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_68.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-01",
+      "title": "Why we need junior developers",
+      "filepath": "Era2/InfoWorld/infoworld_68.txt"
+    }
+  },
+  {
+    "index": 51,
+    "text_file": "infoworld_50.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_50.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-03",
+      "title": "The JavaScript code won’t write itself",
+      "filepath": "Era2/InfoWorld/infoworld_50.txt"
+    }
+  },
+  {
+    "index": 52,
+    "text_file": "infoworld_36.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_36.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-07",
+      "title": "How to write nonfunctional requirements for AI agents",
+      "filepath": "Era2/InfoWorld/infoworld_36.txt"
+    }
+  },
+  {
+    "index": 53,
+    "text_file": "infoworld_43.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_43.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-07",
+      "title": "Pros and cons of microservices in genAI systems",
+      "filepath": "Era2/InfoWorld/infoworld_43.txt"
+    }
+  },
+  {
+    "index": 54,
+    "text_file": "infoworld_39.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_39.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-13",
+      "title": "OpenAI Codex rivals Claude Code",
+      "filepath": "Era2/InfoWorld/infoworld_39.txt"
+    }
+  },
+  {
+    "index": 55,
+    "text_file": "infoworld_33.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_33.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-20",
+      "title": "How AI is reshaping the future of startups",
+      "filepath": "Era2/InfoWorld/infoworld_33.txt"
+    }
+  },
+  {
+    "index": 56,
+    "text_file": "infoworld_58.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_58.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-20",
+      "title": "Visual Studio Code taps AI for merge conflict resolution",
+      "filepath": "Era2/InfoWorld/infoworld_58.txt"
+    }
+  },
+  {
+    "index": 57,
+    "text_file": "infoworld_04.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_04.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-22",
+      "title": "85% of developers use AI regularly – JetBrains survey",
+      "filepath": "Era2/InfoWorld/infoworld_04.txt"
+    }
+  },
+  {
+    "index": 58,
+    "text_file": "infoworld_41.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_41.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-24",
+      "title": "OpenAI seeks to automate ‘computer use’ for Macs in the enterprise",
+      "filepath": "Era2/InfoWorld/infoworld_41.txt"
+    }
+  },
+  {
+    "index": 59,
+    "text_file": "infoworld_17.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_17.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-27",
+      "title": "Building a golden path to AI",
+      "filepath": "Era2/InfoWorld/infoworld_17.txt"
+    }
+  },
+  {
+    "index": 60,
+    "text_file": "infoworld_26.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_26.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-27",
+      "title": "Do programming certifications still matter?",
+      "filepath": "Era2/InfoWorld/infoworld_26.txt"
+    }
+  },
+  {
+    "index": 61,
+    "text_file": "infoworld_35.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_35.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-28",
+      "title": "How to vibe code for free, or almost free",
+      "filepath": "Era2/InfoWorld/infoworld_35.txt"
+    }
+  },
+  {
+    "index": 62,
+    "text_file": "infoworld_06.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-29",
+      "title": "Agentic AI: what now, what next?",
+      "filepath": "Era2/InfoWorld/infoworld_06.txt"
+    }
+  },
+  {
+    "index": 63,
+    "text_file": "infoworld_60.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_60.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-10-30",
+      "title": "Visual Studio October update adds Claude coding models",
+      "filepath": "Era2/InfoWorld/infoworld_60.txt"
+    }
+  },
+  {
+    "index": 64,
+    "text_file": "infoworld_32.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_32.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-03",
+      "title": "Google unveils Jules extension for Gemini CLI",
+      "filepath": "Era2/InfoWorld/infoworld_32.txt"
+    }
+  },
+  {
+    "index": 65,
+    "text_file": "infoworld_62.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_62.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-04",
+      "title": "What is vibe coding? AI writes the code so developers can think big",
+      "filepath": "Era2/InfoWorld/infoworld_62.txt"
+    }
+  },
+  {
+    "index": 66,
+    "text_file": "infoworld_46.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_46.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-05",
+      "title": "Some thoughts on AI and coding",
+      "filepath": "Era2/InfoWorld/infoworld_46.txt"
+    }
+  },
+  {
+    "index": 67,
+    "text_file": "infoworld_12.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_12.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-07",
+      "title": "AI makes JavaScript programming fun again",
+      "filepath": "Era2/InfoWorld/infoworld_12.txt"
+    }
+  },
+  {
+    "index": 68,
+    "text_file": "infoworld_49.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_49.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-10",
+      "title": "The hidden skills behind the AI engineer",
+      "filepath": "Era2/InfoWorld/infoworld_49.txt"
+    }
+  },
+  {
+    "index": 69,
+    "text_file": "infoworld_07.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_07.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-11",
+      "title": "Agentic coding with Google Jules",
+      "filepath": "Era2/InfoWorld/infoworld_07.txt"
+    }
+  },
+  {
+    "index": 70,
+    "text_file": "infoworld_31.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_31.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-13",
+      "title": "Google Agent Development Kit adds Go language support",
+      "filepath": "Era2/InfoWorld/infoworld_31.txt"
+    }
+  },
+  {
+    "index": 71,
+    "text_file": "infoworld_40.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_40.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-13",
+      "title": "OpenAI rolls out GPT-5.1 to refine ChatGPT with adaptive reasoning and personalization",
+      "filepath": "Era2/InfoWorld/infoworld_40.txt"
+    }
+  },
+  {
+    "index": 72,
+    "text_file": "infoworld_64.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_64.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-13",
+      "title": "When will browser agents do real work?",
+      "filepath": "Era2/InfoWorld/infoworld_64.txt"
+    }
+  },
+  {
+    "index": 73,
+    "text_file": "infoworld_20.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_20.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-14",
+      "title": "Copy-paste vulnerability hits AI inference frameworks at Meta, Nvidia, and Microsoft",
+      "filepath": "Era2/InfoWorld/infoworld_20.txt"
+    }
+  },
+  {
+    "index": 74,
+    "text_file": "infoworld_59.txt",
+    "original_filepath": "Era2/InfoWorld/infoworld_59.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "InfoWorld",
+      "publication_date": "2025-11-14",
+      "title": "Visual Studio Code unifies UI for managing coding agents",
+      "filepath": "Era2/InfoWorld/infoworld_59.txt"
+    }
+  },
+  {
+    "index": 75,
+    "text_file": "jobmarket_11.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_11.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2015-02-19",
+      "title": "Watch out, coders — a robot may take your job, too",
+      "filepath": "Era2/JobMarket/jobmarket_11.txt"
+    }
+  },
+  {
+    "index": 76,
+    "text_file": "jobmarket_08.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_08.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2021-04-12",
+      "title": "IT career roadmap: AI engineer",
+      "filepath": "Era2/JobMarket/jobmarket_08.txt"
+    }
+  },
+  {
+    "index": 77,
+    "text_file": "jobmarket_05.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2023-01-24",
+      "title": "Can AI replace cloud architects?",
+      "filepath": "Era2/JobMarket/jobmarket_05.txt"
+    }
+  },
+  {
+    "index": 78,
+    "text_file": "jobmarket_01.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2023-02-13",
+      "title": "10 reasons to worry about generative AI",
+      "filepath": "Era2/JobMarket/jobmarket_01.txt"
+    }
+  },
+  {
+    "index": 79,
+    "text_file": "jobmarket_04.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_04.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2023-02-20",
+      "title": "AI still requires human expertise",
+      "filepath": "Era2/JobMarket/jobmarket_04.txt"
+    }
+  },
+  {
+    "index": 80,
+    "text_file": "jobmarket_07.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_07.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2023-04-03",
+      "title": "If you want a career in AI, learn Python",
+      "filepath": "Era2/JobMarket/jobmarket_07.txt"
+    }
+  },
+  {
+    "index": 81,
+    "text_file": "jobmarket_02.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2023-08-08",
+      "title": "AI and the future of software development",
+      "filepath": "Era2/JobMarket/jobmarket_02.txt"
+    }
+  },
+  {
+    "index": 82,
+    "text_file": "jobmarket_03.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2025-09-15",
+      "title": "AI developer certifications tech companies want",
+      "filepath": "Era2/JobMarket/jobmarket_03.txt"
+    }
+  },
+  {
+    "index": 83,
+    "text_file": "jobmarket_10.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_10.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2025-09-23",
+      "title": "The productivity paradox of AI-assisted coding",
+      "filepath": "Era2/JobMarket/jobmarket_10.txt"
+    }
+  },
+  {
+    "index": 84,
+    "text_file": "jobmarket_12.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_12.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2025-10-01",
+      "title": "Why we need junior developers",
+      "filepath": "Era2/JobMarket/jobmarket_12.txt"
+    }
+  },
+  {
+    "index": 85,
+    "text_file": "jobmarket_06.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2025-10-27",
+      "title": "Do programming certifications still matter?",
+      "filepath": "Era2/JobMarket/jobmarket_06.txt"
+    }
+  },
+  {
+    "index": 86,
+    "text_file": "jobmarket_09.txt",
+    "original_filepath": "Era2/JobMarket/jobmarket_09.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "JobMarket",
+      "publication_date": "2025-11-10",
+      "title": "The hidden skills behind the AI engineer",
+      "filepath": "Era2/JobMarket/jobmarket_09.txt"
+    }
+  },
+  {
+    "index": 87,
+    "text_file": "papers_17.txt",
+    "original_filepath": "Era2/Papers/papers_17.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2022-05-04",
+      "title": "An Empirical Evaluation of GitHub Copilot's Code Suggestions",
+      "filepath": "Era2/Papers/papers_17.txt"
+    }
+  },
+  {
+    "index": 88,
+    "text_file": "papers_18.txt",
+    "original_filepath": "Era2/Papers/papers_18.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2022-05-04",
+      "title": "An Empirical Evaluation of GitHub Copilot's Code Suggestions",
+      "filepath": "Era2/Papers/papers_18.txt"
+    }
+  },
+  {
+    "index": 89,
+    "text_file": "papers_28.txt",
+    "original_filepath": "Era2/Papers/papers_28.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2022-06-09",
+      "title": "Is GitHub Copilot a Substitute for Human Pair-programming? An Empirical Study",
+      "filepath": "Era2/Papers/papers_28.txt"
+    }
+  },
+  {
+    "index": 90,
+    "text_file": "papers_27.txt",
+    "original_filepath": "Era2/Papers/papers_27.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2023-06-14",
+      "title": "On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot",
+      "filepath": "Era2/Papers/papers_27.txt"
+    }
+  },
+  {
+    "index": 91,
+    "text_file": "papers_29.txt",
+    "original_filepath": "Era2/Papers/papers_29.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2023-06-14",
+      "title": "On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot",
+      "filepath": "Era2/Papers/papers_29.txt"
+    }
+  },
+  {
+    "index": 92,
+    "text_file": "papers_07.txt",
+    "original_filepath": "Era2/Papers/papers_07.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-02-27",
+      "title": "Programming with ChatGPT: How far can we go?",
+      "filepath": "Era2/Papers/papers_07.txt"
+    }
+  },
+  {
+    "index": 93,
+    "text_file": "papers_19.txt",
+    "original_filepath": "Era2/Papers/papers_19.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-05-08",
+      "title": "Using GitHub Copilot for Test Generation in Python: An Empirical Study",
+      "filepath": "Era2/Papers/papers_19.txt"
+    }
+  },
+  {
+    "index": 94,
+    "text_file": "papers_21.txt",
+    "original_filepath": "Era2/Papers/papers_21.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-05-13",
+      "title": "An Empirical Study of Code Search in Intelligent Coding Assistant: Perceptions, Expectations, and Directions",
+      "filepath": "Era2/Papers/papers_21.txt"
+    }
+  },
+  {
+    "index": 95,
+    "text_file": "papers_24.txt",
+    "original_filepath": "Era2/Papers/papers_24.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-05-15",
+      "title": "Generating Java Methods: An Empirical Assessment of Four AI-Based Code Assistants",
+      "filepath": "Era2/Papers/papers_24.txt"
+    }
+  },
+  {
+    "index": 96,
+    "text_file": "papers_10.txt",
+    "original_filepath": "Era2/Papers/papers_10.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-05-22",
+      "title": "Beyond Code Generation: An Observational Study",
+      "filepath": "Era2/Papers/papers_10.txt"
+    }
+  },
+  {
+    "index": 97,
+    "text_file": "papers_11.txt",
+    "original_filepath": "Era2/Papers/papers_11.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-05-22",
+      "title": "Beyond Code Generation: An Observational Study",
+      "filepath": "Era2/Papers/papers_11.txt"
+    }
+  },
+  {
+    "index": 98,
+    "text_file": "papers_12.txt",
+    "original_filepath": "Era2/Papers/papers_12.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-08-20",
+      "title": "1v45501.8042:viXra",
+      "filepath": "Era2/Papers/papers_12.txt"
+    }
+  },
+  {
+    "index": 99,
+    "text_file": "papers_20.txt",
+    "original_filepath": "Era2/Papers/papers_20.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-08-31",
+      "title": "Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns",
+      "filepath": "Era2/Papers/papers_20.txt"
+    }
+  },
+  {
+    "index": 100,
+    "text_file": "papers_09.txt",
+    "original_filepath": "Era2/Papers/papers_09.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-10-04",
+      "title": "LLM-based Test-driven Interactive Code",
+      "filepath": "Era2/Papers/papers_09.txt"
+    }
+  },
+  {
+    "index": 101,
+    "text_file": "papers_01.txt",
+    "original_filepath": "Era2/Papers/papers_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-11-04",
+      "title": "Exploring the problems, their causes and solutions of AI pair programming: A study on GitHub and Stack Overflow",
+      "filepath": "Era2/Papers/papers_01.txt"
+    }
+  },
+  {
+    "index": 102,
+    "text_file": "papers_02.txt",
+    "original_filepath": "Era2/Papers/papers_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-11-25",
+      "title": "Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward",
+      "filepath": "Era2/Papers/papers_02.txt"
+    }
+  },
+  {
+    "index": 103,
+    "text_file": "papers_03.txt",
+    "original_filepath": "Era2/Papers/papers_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-11-25",
+      "title": "Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward",
+      "filepath": "Era2/Papers/papers_03.txt"
+    }
+  },
+  {
+    "index": 104,
+    "text_file": "papers_04.txt",
+    "original_filepath": "Era2/Papers/papers_04.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2024-11-25",
+      "title": "Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward",
+      "filepath": "Era2/Papers/papers_04.txt"
+    }
+  },
+  {
+    "index": 105,
+    "text_file": "papers_13.txt",
+    "original_filepath": "Era2/Papers/papers_13.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-03-05",
+      "title": "Examining the Use and Impact of an AI Code Assistant on Developer Productivity and Experience in the Enterprise",
+      "filepath": "Era2/Papers/papers_13.txt"
+    }
+  },
+  {
+    "index": 106,
+    "text_file": "papers_23.txt",
+    "original_filepath": "Era2/Papers/papers_23.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-05-12",
+      "title": "Evaluating the Impact of ChatGPT on Programming Learning Outcomes in a Big Data Course",
+      "filepath": "Era2/Papers/papers_23.txt"
+    }
+  },
+  {
+    "index": 107,
+    "text_file": "papers_05.txt",
+    "original_filepath": "Era2/Papers/papers_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-05-30",
+      "title": "Does generative AI help in learning programming: Students’ perceptions, reported use and relation to performance",
+      "filepath": "Era2/Papers/papers_05.txt"
+    }
+  },
+  {
+    "index": 108,
+    "text_file": "papers_06.txt",
+    "original_filepath": "Era2/Papers/papers_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-05-30",
+      "title": "Does generative AI help in learning programming: Students’ perceptions, reported use and relation to performance",
+      "filepath": "Era2/Papers/papers_06.txt"
+    }
+  },
+  {
+    "index": 109,
+    "text_file": "papers_14.txt",
+    "original_filepath": "Era2/Papers/papers_14.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-06-08",
+      "title": "Will Your Next Pair Programming Partner Be Human? An Empirical Evaluation of Generative AI as a Collaborative Teammate in a Semester-Long Classroom Setting",
+      "filepath": "Era2/Papers/papers_14.txt"
+    }
+  },
+  {
+    "index": 110,
+    "text_file": "papers_26.txt",
+    "original_filepath": "Era2/Papers/papers_26.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-06-11",
+      "title": "Opinnäytetyön otsikko",
+      "filepath": "Era2/Papers/papers_26.txt"
+    }
+  },
+  {
+    "index": 111,
+    "text_file": "papers_32.txt",
+    "original_filepath": "Era2/Papers/papers_32.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-06-28",
+      "title": "Evaluating the Educational Benefits and Risks of AI",
+      "filepath": "Era2/Papers/papers_32.txt"
+    }
+  },
+  {
+    "index": 112,
+    "text_file": "papers_08.txt",
+    "original_filepath": "Era2/Papers/papers_08.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-07-24",
+      "title": "...btondluohsyehT.deweiverreeptoneratahtstroperyranimilerperavixRhceTnodetsopstnirP-e—1v/77718696.621933571.vixrhcet/72263.01/gro.iod//:sptth—0.4YB-CC—5202luJ42nodetsoP",
+      "filepath": "Era2/Papers/papers_08.txt"
+    }
+  },
+  {
+    "index": 113,
+    "text_file": "papers_22.txt",
+    "original_filepath": "Era2/Papers/papers_22.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-08-06",
+      "title": "HIS:TX_1~AT/TX_2~AT",
+      "filepath": "Era2/Papers/papers_22.txt"
+    }
+  },
+  {
+    "index": 114,
+    "text_file": "papers_31.txt",
+    "original_filepath": "Era2/Papers/papers_31.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-08-21",
+      "title": "The Effects of Generative AI on High-Skilled Work:",
+      "filepath": "Era2/Papers/papers_31.txt"
+    }
+  },
+  {
+    "index": 115,
+    "text_file": "papers_30.txt",
+    "original_filepath": "Era2/Papers/papers_30.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-08-26",
+      "title": "EmpiricalSoftwareEngineering(2025)30:133",
+      "filepath": "Era2/Papers/papers_30.txt"
+    }
+  },
+  {
+    "index": 116,
+    "text_file": "papers_15.txt",
+    "original_filepath": "Era2/Papers/papers_15.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-10-07",
+      "title": "Designing Empirical Studies on LLM-Based Code Generation: Towards a Reference Framework",
+      "filepath": "Era2/Papers/papers_15.txt"
+    }
+  },
+  {
+    "index": 117,
+    "text_file": "papers_16.txt",
+    "original_filepath": "Era2/Papers/papers_16.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "2025-10-07",
+      "title": "Designing Empirical Studies on LLM-Based Code Generation: Towards a Reference Framework",
+      "filepath": "Era2/Papers/papers_16.txt"
+    }
+  },
+  {
+    "index": 118,
+    "text_file": "papers_25.txt",
+    "original_filepath": "Era2/Papers/papers_25.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Papers",
+      "publication_date": "Unknown",
+      "title": "TP1_Mehmet_Kaan_Taspunar_28052025.docx",
+      "filepath": "Era2/Papers/papers_25.txt"
+    }
+  },
+  {
+    "index": 119,
+    "text_file": "technicaldocuments_09.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_09.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2023-07-07",
+      "title": "Code Intelligence - whitepaper.pdf",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_09.txt"
+    }
+  },
+  {
+    "index": 120,
+    "text_file": "technicaldocuments_11.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_11.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2023-11-03",
+      "title": "The Effects of AI",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_11.txt"
+    }
+  },
+  {
+    "index": 121,
+    "text_file": "technicaldocuments_07.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_07.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2024-03-22",
+      "title": "Finding flow",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_07.txt"
+    }
+  },
+  {
+    "index": 122,
+    "text_file": "technicaldocuments_08.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_08.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2024-06-17",
+      "title": "Technology, Media & Telecommunications Practice",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_08.txt"
+    }
+  },
+  {
+    "index": 123,
+    "text_file": "technicaldocuments_02.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2024-07-29",
+      "title": "AI coding tools for beginner and expert coders",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_02.txt"
+    }
+  },
+  {
+    "index": 124,
+    "text_file": "technicaldocuments_05.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2024-07-29",
+      "title": "What is AI code generation?",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_05.txt"
+    }
+  },
+  {
+    "index": 125,
+    "text_file": "technicaldocuments_10.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_10.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2024-10-02",
+      "title": "The Role of Artificial",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_10.txt"
+    }
+  },
+  {
+    "index": 126,
+    "text_file": "technicaldocuments_04.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_04.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2025-01-30",
+      "title": "Software Development with Augmented Retrieval",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_04.txt"
+    }
+  },
+  {
+    "index": 127,
+    "text_file": "technicaldocuments_01.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2025-04-09",
+      "title": "AI Code Reviews",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_01.txt"
+    }
+  },
+  {
+    "index": 128,
+    "text_file": "technicaldocuments_03.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2025-05-12",
+      "title": "AI in Software Development",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_03.txt"
+    }
+  },
+  {
+    "index": 129,
+    "text_file": "technicaldocuments_06.txt",
+    "original_filepath": "Era2/TechnicalDocuments/technicaldocuments_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "TechnicalDocuments",
+      "publication_date": "2025-08-15",
+      "title": "What Is Vibe Coding?",
+      "filepath": "Era2/TechnicalDocuments/technicaldocuments_06.txt"
+    }
+  },
+  {
+    "index": 130,
+    "text_file": "wired_02.txt",
+    "original_filepath": "Era2/Wired/wired_02.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2019-02-18",
+      "title": "6 Apps That Take the Grind out of Your Workday",
+      "filepath": "Era2/Wired/wired_02.txt"
+    }
+  },
+  {
+    "index": 131,
+    "text_file": "wired_28.txt",
+    "original_filepath": "Era2/Wired/wired_28.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2021-08-12",
+      "title": "I Think an AI Is Flirting With Me. Is It OK If I Flirt Back?",
+      "filepath": "Era2/Wired/wired_28.txt"
+    }
+  },
+  {
+    "index": 132,
+    "text_file": "wired_31.txt",
+    "original_filepath": "Era2/Wired/wired_31.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2021-08-20",
+      "title": "Looking for a New Job in Tech? It’s Your Lucky Day",
+      "filepath": "Era2/Wired/wired_31.txt"
+    }
+  },
+  {
+    "index": 133,
+    "text_file": "wired_14.txt",
+    "original_filepath": "Era2/Wired/wired_14.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2022-03-15",
+      "title": "How an AI Became My Code-Writing Genie",
+      "filepath": "Era2/Wired/wired_14.txt"
+    }
+  },
+  {
+    "index": 134,
+    "text_file": "wired_15.txt",
+    "original_filepath": "Era2/Wired/wired_15.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2022-11-03",
+      "title": "Dear Artists: Do Not Fear AI Image Generators",
+      "filepath": "Era2/Wired/wired_15.txt"
+    }
+  },
+  {
+    "index": 135,
+    "text_file": "wired_45.txt",
+    "original_filepath": "Era2/Wired/wired_45.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2022-12-16",
+      "title": "The Spawn of ChatGPT Will Try to Sell You Things",
+      "filepath": "Era2/Wired/wired_45.txt"
+    }
+  },
+  {
+    "index": 136,
+    "text_file": "wired_12.txt",
+    "original_filepath": "Era2/Wired/wired_12.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-01-26",
+      "title": "ChatGPT Is Coming for Classrooms. Don't Panic",
+      "filepath": "Era2/Wired/wired_12.txt"
+    }
+  },
+  {
+    "index": 137,
+    "text_file": "wired_32.txt",
+    "original_filepath": "Era2/Wired/wired_32.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-02-06",
+      "title": "Meet Bard, Google’s Answer to ChatGPT",
+      "filepath": "Era2/Wired/wired_32.txt"
+    }
+  },
+  {
+    "index": 138,
+    "text_file": "wired_44.txt",
+    "original_filepath": "Era2/Wired/wired_44.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-02-06",
+      "title": "The Race to Build a ChatGPT-Powered Search Engine",
+      "filepath": "Era2/Wired/wired_44.txt"
+    }
+  },
+  {
+    "index": 139,
+    "text_file": "wired_37.txt",
+    "original_filepath": "Era2/Wired/wired_37.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-03-28",
+      "title": "Now That ChatGPT Is Plugged In, Things Could Get Weird",
+      "filepath": "Era2/Wired/wired_37.txt"
+    }
+  },
+  {
+    "index": 140,
+    "text_file": "wired_03.txt",
+    "original_filepath": "Era2/Wired/wired_03.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-04-27",
+      "title": "6 Tips for Using ChatGPT to Brainstorm Better",
+      "filepath": "Era2/Wired/wired_03.txt"
+    }
+  },
+  {
+    "index": 141,
+    "text_file": "wired_26.txt",
+    "original_filepath": "Era2/Wired/wired_26.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-05-19",
+      "title": "I Finally Bought a ChatGPT Plus Subscription—and It’s Worth It",
+      "filepath": "Era2/Wired/wired_26.txt"
+    }
+  },
+  {
+    "index": 142,
+    "text_file": "wired_18.txt",
+    "original_filepath": "Era2/Wired/wired_18.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-05-23",
+      "title": "Does AI Have a Subconscious?",
+      "filepath": "Era2/Wired/wired_18.txt"
+    }
+  },
+  {
+    "index": 143,
+    "text_file": "wired_07.txt",
+    "original_filepath": "Era2/Wired/wired_07.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-08",
+      "title": "All the Ways ChatGPT Can Help You Land a Job",
+      "filepath": "Era2/Wired/wired_07.txt"
+    }
+  },
+  {
+    "index": 144,
+    "text_file": "wired_35.txt",
+    "original_filepath": "Era2/Wired/wired_35.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-13",
+      "title": "Microsoft’s Satya Nadella Is Betting Everything on AI",
+      "filepath": "Era2/Wired/wired_35.txt"
+    }
+  },
+  {
+    "index": 145,
+    "text_file": "wired_22.txt",
+    "original_filepath": "Era2/Wired/wired_22.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-20",
+      "title": "How Christopher Nolan Learned to Stop Worrying and Love AI",
+      "filepath": "Era2/Wired/wired_22.txt"
+    }
+  },
+  {
+    "index": 146,
+    "text_file": "wired_33.txt",
+    "original_filepath": "Era2/Wired/wired_33.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-25",
+      "title": "Meet the AI Protest Group Campaigning Against Human Extinction",
+      "filepath": "Era2/Wired/wired_33.txt"
+    }
+  },
+  {
+    "index": 147,
+    "text_file": "wired_34.txt",
+    "original_filepath": "Era2/Wired/wired_34.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-27",
+      "title": "Meet the Humans Trying to Keep Us Safe From AI",
+      "filepath": "Era2/Wired/wired_34.txt"
+    }
+  },
+  {
+    "index": 148,
+    "text_file": "wired_24.txt",
+    "original_filepath": "Era2/Wired/wired_24.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-28",
+      "title": "How to Tackle AI—and Cheating—in the Classroom",
+      "filepath": "Era2/Wired/wired_24.txt"
+    }
+  },
+  {
+    "index": 149,
+    "text_file": "wired_39.txt",
+    "original_filepath": "Era2/Wired/wired_39.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-06-29",
+      "title": "Should I Use an AI to Write My Wedding Toast?",
+      "filepath": "Era2/Wired/wired_39.txt"
+    }
+  },
+  {
+    "index": 150,
+    "text_file": "wired_42.txt",
+    "original_filepath": "Era2/Wired/wired_42.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-07-25",
+      "title": "The AI-Powered, Totally Autonomous Future of War Is Here",
+      "filepath": "Era2/Wired/wired_42.txt"
+    }
+  },
+  {
+    "index": 151,
+    "text_file": "wired_10.txt",
+    "original_filepath": "Era2/Wired/wired_10.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-07-27",
+      "title": "Big AI Won’t Stop Election Deepfakes With Watermarks",
+      "filepath": "Era2/Wired/wired_10.txt"
+    }
+  },
+  {
+    "index": 152,
+    "text_file": "wired_09.txt",
+    "original_filepath": "Era2/Wired/wired_09.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-08-04",
+      "title": "Apps Are Rushing to Add AI. Is Any of It Useful?",
+      "filepath": "Era2/Wired/wired_09.txt"
+    }
+  },
+  {
+    "index": 153,
+    "text_file": "wired_49.txt",
+    "original_filepath": "Era2/Wired/wired_49.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-08-10",
+      "title": "To Navigate the Age of AI, the World Needs a New Turing Test",
+      "filepath": "Era2/Wired/wired_49.txt"
+    }
+  },
+  {
+    "index": 154,
+    "text_file": "wired_25.txt",
+    "original_filepath": "Era2/Wired/wired_25.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-08-29",
+      "title": "How to Use AI to Talk to Whales—and Save Life on Earth",
+      "filepath": "Era2/Wired/wired_25.txt"
+    }
+  },
+  {
+    "index": 155,
+    "text_file": "wired_50.txt",
+    "original_filepath": "Era2/Wired/wired_50.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-05",
+      "title": "What OpenAI Really Wants",
+      "filepath": "Era2/Wired/wired_50.txt"
+    }
+  },
+  {
+    "index": 156,
+    "text_file": "wired_17.txt",
+    "original_filepath": "Era2/Wired/wired_17.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-07",
+      "title": "Do Not Fear the Robot Uprising. Join It",
+      "filepath": "Era2/Wired/wired_17.txt"
+    }
+  },
+  {
+    "index": 157,
+    "text_file": "wired_40.txt",
+    "original_filepath": "Era2/Wired/wired_40.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-11",
+      "title": "Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?",
+      "filepath": "Era2/Wired/wired_40.txt"
+    }
+  },
+  {
+    "index": 158,
+    "text_file": "wired_41.txt",
+    "original_filepath": "Era2/Wired/wired_41.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-14",
+      "title": "The AI Detection Arms Race Is On—and College Students Are Building the Weapons",
+      "filepath": "Era2/Wired/wired_41.txt"
+    }
+  },
+  {
+    "index": 159,
+    "text_file": "wired_13.txt",
+    "original_filepath": "Era2/Wired/wired_13.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-21",
+      "title": "Confessions of a Viral AI Writer",
+      "filepath": "Era2/Wired/wired_13.txt"
+    }
+  },
+  {
+    "index": 160,
+    "text_file": "wired_19.txt",
+    "original_filepath": "Era2/Wired/wired_19.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-09-21",
+      "title": "Does Using AI Make Me Lazy?",
+      "filepath": "Era2/Wired/wired_19.txt"
+    }
+  },
+  {
+    "index": 161,
+    "text_file": "wired_01.txt",
+    "original_filepath": "Era2/Wired/wired_01.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2023-11-07",
+      "title": "5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model",
+      "filepath": "Era2/Wired/wired_01.txt"
+    }
+  },
+  {
+    "index": 162,
+    "text_file": "wired_21.txt",
+    "original_filepath": "Era2/Wired/wired_21.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2024-02-20",
+      "title": "Help, My Friend Got Me a Dumb AI-Generated Present",
+      "filepath": "Era2/Wired/wired_21.txt"
+    }
+  },
+  {
+    "index": 163,
+    "text_file": "wired_52.txt",
+    "original_filepath": "Era2/Wired/wired_52.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2024-06-26",
+      "title": "With AI Tools, Scientists Can Crack the Code of Life",
+      "filepath": "Era2/Wired/wired_52.txt"
+    }
+  },
+  {
+    "index": 164,
+    "text_file": "wired_47.txt",
+    "original_filepath": "Era2/Wired/wired_47.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2024-08-15",
+      "title": "This Code Breaker Is Using AI to Decode the Heart’s Secret Rhythms",
+      "filepath": "Era2/Wired/wired_47.txt"
+    }
+  },
+  {
+    "index": 165,
+    "text_file": "wired_48.txt",
+    "original_filepath": "Era2/Wired/wired_48.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2024-11-04",
+      "title": "Thousands of People Are Cloning Their Dead Pets. This Is the Woman They Call First",
+      "filepath": "Era2/Wired/wired_48.txt"
+    }
+  },
+  {
+    "index": 166,
+    "text_file": "wired_11.txt",
+    "original_filepath": "Era2/Wired/wired_11.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2024-12-06",
+      "title": "Canva Revolutionized Graphic Design. Will It Survive the Age of AI?",
+      "filepath": "Era2/Wired/wired_11.txt"
+    }
+  },
+  {
+    "index": 167,
+    "text_file": "wired_08.txt",
+    "original_filepath": "Era2/Wired/wired_08.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-02-24",
+      "title": "Anthropic Launches the World’s First ‘Hybrid Reasoning’ AI Model",
+      "filepath": "Era2/Wired/wired_08.txt"
+    }
+  },
+  {
+    "index": 168,
+    "text_file": "wired_30.txt",
+    "original_filepath": "Era2/Wired/wired_30.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-03-21",
+      "title": "Inside Google’s Two-Year Frenzy to Catch Up With OpenAI",
+      "filepath": "Era2/Wired/wired_30.txt"
+    }
+  },
+  {
+    "index": 169,
+    "text_file": "wired_23.txt",
+    "original_filepath": "Era2/Wired/wired_23.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-03-24",
+      "title": "How Software Engineers Actually Use AI",
+      "filepath": "Era2/Wired/wired_23.txt"
+    }
+  },
+  {
+    "index": 170,
+    "text_file": "wired_29.txt",
+    "original_filepath": "Era2/Wired/wired_29.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-03-28",
+      "title": "If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born",
+      "filepath": "Era2/Wired/wired_29.txt"
+    }
+  },
+  {
+    "index": 171,
+    "text_file": "wired_53.txt",
+    "original_filepath": "Era2/Wired/wired_53.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-05-20",
+      "title": "‘A Billion Streams and No Fans’: Inside a $10 Million AI Music Fraud Case",
+      "filepath": "Era2/Wired/wired_53.txt"
+    }
+  },
+  {
+    "index": 172,
+    "text_file": "wired_16.txt",
+    "original_filepath": "Era2/Wired/wired_16.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-06-03",
+      "title": "Demis Hassabis Embraces the Future of Work in the Age of AI",
+      "filepath": "Era2/Wired/wired_16.txt"
+    }
+  },
+  {
+    "index": 173,
+    "text_file": "wired_36.txt",
+    "original_filepath": "Era2/Wired/wired_36.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-06-26",
+      "title": "My Couples Retreat With 3 AI Chatbots and the Humans Who Love Them",
+      "filepath": "Era2/Wired/wired_36.txt"
+    }
+  },
+  {
+    "index": 174,
+    "text_file": "wired_27.txt",
+    "original_filepath": "Era2/Wired/wired_27.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-06-29",
+      "title": "I Let AI Agents Plan My Vacation—and It Wasn't Terrible",
+      "filepath": "Era2/Wired/wired_27.txt"
+    }
+  },
+  {
+    "index": 175,
+    "text_file": "wired_05.txt",
+    "original_filepath": "Era2/Wired/wired_05.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-08-20",
+      "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
+      "filepath": "Era2/Wired/wired_05.txt"
+    }
+  },
+  {
+    "index": 176,
+    "text_file": "wired_51.txt",
+    "original_filepath": "Era2/Wired/wired_51.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-08-21",
+      "title": "Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?",
+      "filepath": "Era2/Wired/wired_51.txt"
+    }
+  },
+  {
+    "index": 177,
+    "text_file": "wired_46.txt",
+    "original_filepath": "Era2/Wired/wired_46.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-09-25",
+      "title": "The Story of DOGE, as Told by Federal Workers",
+      "filepath": "Era2/Wired/wired_46.txt"
+    }
+  },
+  {
+    "index": 178,
+    "text_file": "wired_43.txt",
+    "original_filepath": "Era2/Wired/wired_43.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-10-07",
+      "title": "The Future of AI Isn't Just Slop",
+      "filepath": "Era2/Wired/wired_43.txt"
+    }
+  },
+  {
+    "index": 179,
+    "text_file": "wired_38.txt",
+    "original_filepath": "Era2/Wired/wired_38.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-10-13",
+      "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
+      "filepath": "Era2/Wired/wired_38.txt"
+    }
+  },
+  {
+    "index": 180,
+    "text_file": "wired_06.txt",
+    "original_filepath": "Era2/Wired/wired_06.txt",
+    "metadata": {
+      "era": "Era2",
+      "source": "Wired",
+      "publication_date": "2025-11-12",
+      "title": "All of My Employees Are AI Agents, and So Are My Executives",
+      "filepath": "Era2/Wired/wired_06.txt"
+    }
+  }
+]

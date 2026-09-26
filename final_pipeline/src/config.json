@@ -1,0 +1,101 @@
+{
+  "shared": {
+    "embedding_model": "Alibaba-NLP/gte-base-en-v1.5",
+    "vectorizer": {
+      "ngram_range": [1, 2],
+      "stop_words": "english",
+      "additional_stopwords": [
+        "wa",
+        "et",
+        "et al",
+        "cid",
+        ",",
+        ".",
+        ":",
+        "a",
+        "ai",
+        "and",
+        "are",
+        "be",
+        "can",
+        "for",
+        "in",
+        "is",
+        "it",
+        "of",
+        "on",
+        "or",
+        "s",
+        "that",
+        "the",
+        "this",
+        "to",
+        "with",
+        "'",
+        "an",
+        "at",
+        "but",
+        "by",
+        "from",
+        "more",
+        "not",
+        "ha",
+        "have",
+        "one",
+        "which",
+        "will",
+        "all",
+        "been",
+        "computer",
+        "if",
+        "code",
+        "say"
+      ]
+    },
+    "bertopic": {
+      "top_n_words": 10,
+      "language": "english",
+      "calculate_probabilities": true,
+      "verbose": true
+    },
+    "multi_topic_assignment": {
+      "enabled": true,
+      "probability_threshold": 0.15
+    },
+    "preprocessing": {
+      "remove_headers": true,
+      "normalize_whitespace": true,
+      "remove_stopwords": true,
+      "lemmatize": true,
+      "min_text_length": null
+    }
+  },
+  "era1": {
+    "umap": {
+      "n_neighbors": 20,
+      "n_components": 8,
+      "min_dist": 0.05,
+      "random_state": 42
+    },
+    "hdbscan": {
+      "min_cluster_size": 5,
+      "min_samples": 3,
+      "gen_min_span_tree": true,
+      "prediction_data": true
+    }
+  },
+  "era2": {
+    "umap": {
+      "n_neighbors": 10,
+      "n_components": 10,
+      "min_dist": 0.05,
+      "random_state": 42
+    },
+    "hdbscan": {
+      "min_cluster_size": 3,
+      "min_samples": 5,
+      "gen_min_span_tree": true,
+      "prediction_data": true
+    }
+  }
+}
